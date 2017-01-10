@@ -1,2 +1,2 @@
-Aquí van temas de colaboracion
+Aquí van temas de \*\*colaboracion\*\*
 
