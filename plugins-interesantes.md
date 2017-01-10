@@ -6,7 +6,7 @@
 |  |  |  |
 |  |  |  |
 
-* \[exercises\]\(https://plugins.gitbook.com/plugin/exercises\)
+* \[exercises\]\([https://plugins.gitbook.com/plugin/exercises](https://plugins.gitbook.com/plugin/exercises\)\)
 
 
 
