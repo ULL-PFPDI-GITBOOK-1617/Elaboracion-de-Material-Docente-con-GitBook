@@ -1,7 +1,7 @@
 # Summary
 
-* [Introduction](README.md)
-* [First Chapter](chapter1.md)
-* [Plugins interesantes](plugins-interesantes.md)
-* [Colaboracion](colaboracion.md)
+* [Introducción](README.md)
+* [Primeros pasos](chapter1.md)
+* [Tópicos Avanzados](plugins-interesantes.md)
+* [Colaboracion y Control de Versiones](colaboracion.md)
 
