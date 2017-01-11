@@ -43,8 +43,12 @@ En el fichero `part1/README.md`deberá aparecer algo como esto:
 
 
 ```markdown
-## Writing is fun { #writing }
+### Writing is fun {#writing}
+...
+### GitBook is nice {#gitbook}
+...
 ```
+
 ##### Parts
 
 The Table of Contents can be divided into parts separated by headings or horizontal lines:
