@@ -1,13 +1,3 @@
-# My Awesome Book
+# Introducción
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
-
-Gara lo modifica...
-
-Kron lo modifica ...
-
-Jazer lo modifica ...
-
-Gara lo vuelve a modificar
-
-Casiano modifica de nuevo
+* [Guía Docente en GitBook en formatos HTML, PDF, epub y mobi](https://www.gitbook.com/book/coromoto/elaboracion-de-documentos-con-gitbook/details) por [Coromoto León Hernández](https://www.gitbook.com/@coromoto)
