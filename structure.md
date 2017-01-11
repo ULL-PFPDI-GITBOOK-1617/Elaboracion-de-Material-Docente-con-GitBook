@@ -45,7 +45,7 @@ test.md
 bin/*
 ```
 
-### Project integration with subdirectory {#subdirectory}
+### Indicandoel directorio raíz del libro {#subdirectory}
 
 For software projects, you can use a subdirectory (like `docs/`) to store the book for the project's documentation. You can configure the [`root` option](config.md) to indicate the folder where GitBook can find the book's files:
 
