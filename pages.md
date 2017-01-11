@@ -39,7 +39,12 @@ Chapters in the Table of Contents can be pointing to specific part of a file usi
     * [We love feedback](part2/README.md#feedback)
     * [Better tools for authors](part2/README.md#tools)
 ```
+En el fichero `part1/README.md`deberá aparecer algo como esto:
 
+
+```markdown
+## Writing is fun { #writing }
+```
 ##### Parts
 
 The Table of Contents can be divided into parts separated by headings or horizontal lines:
