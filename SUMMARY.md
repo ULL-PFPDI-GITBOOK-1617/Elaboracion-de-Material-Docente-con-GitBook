@@ -14,6 +14,7 @@
     * [HTML](syntax/markdown.md#html)
     * [Footnotes](syntax/markdown.md#footnotes)
 * [Jerarquía de Directorios](structure.md)
+* [Pages and Summary](pages.md)
 * [Primeros pasos](primeros-pasos/README.md)
 * [Tópicos Avanzados](plugins-interesantes.md)
 * [Colaboracion y Control de Versiones](colaboracion.md)
