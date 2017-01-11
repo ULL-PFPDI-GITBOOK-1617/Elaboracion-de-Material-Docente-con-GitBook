@@ -21,6 +21,7 @@
 
 ### Tópicos Avanzados
 
+* [Configuration](config.md)
 * [Tópicos Avanzados](plugins-interesantes.md)
 * [Colaboracion y Control de Versiones](colaboracion.md)
 
