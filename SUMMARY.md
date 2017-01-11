@@ -5,7 +5,7 @@
 * [Introducción](README.md)
 * [MarkDown](syntax/markdown.md)
     * [Headings](syntax/markdown.md#headings)
-    * [Párrafos](syntax/markdown.md#paragraphs)
+    * [Párrafos](syntax/markdown.md#parrafos)
     * [Emphasis](syntax/markdown.md#emphasis)
     * [Lists](syntax/markdown.md#lists)
     * [Links](syntax/markdown.md#links)
