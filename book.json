@@ -1,6 +1,7 @@
 {
     "plugins": [
-        "page-toc-button"
+        "-page-toc-button",
+        "page-toc"
     ],
     "pluginsConfig": {
         "page-toc-button": {
