@@ -1,5 +1,7 @@
 # Summary
 
+### Introducción
+
 * [Introducción](README.md)
 * [MarkDown](syntax/markdown.md)
     * [Headings](syntax/markdown.md#headings)
@@ -16,6 +18,9 @@
 * [El Índice o SUMMARY y las Páginas](pages.md)
 * [Jerarquía de Directorios](structure.md)
 * [Primeros pasos](primeros-pasos/README.md)
+
+### Tópicos Avanzados
+
 * [Tópicos Avanzados](plugins-interesantes.md)
 * [Colaboracion y Control de Versiones](colaboracion.md)
 
