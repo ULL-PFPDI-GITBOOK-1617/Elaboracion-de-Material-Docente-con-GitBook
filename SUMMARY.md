@@ -13,6 +13,7 @@
     * [Code](syntax/markdown.md#code)
     * [HTML](syntax/markdown.md#html)
     * [Footnotes](syntax/markdown.md#footnotes)
+* [Directory structure](structure.md)
 * [Primeros pasos](primeros-pasos/README.md)
 * [Tópicos Avanzados](plugins-interesantes.md)
 * [Colaboracion y Control de Versiones](colaboracion.md)
