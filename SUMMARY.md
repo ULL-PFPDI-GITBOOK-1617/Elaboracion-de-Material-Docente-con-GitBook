@@ -29,6 +29,7 @@
 ### Tópicos Avanzados
 
 * [Configuration](config.md)
+* [Templating](templating/README.md)
 * [Plugins Interesantes](plugins-interesantes.md)
 * [Colaboracion y Control de Versiones](colaboracion.md)
 
