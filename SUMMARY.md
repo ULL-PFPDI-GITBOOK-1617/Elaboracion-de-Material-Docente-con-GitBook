@@ -30,6 +30,9 @@
 
 * [Configuration](config.md)
 * [Templating](templating/README.md)
+    * [Content References](templating/conrefs.md)
+    * [Variables](templating/variables.md)
+    * [Builtin](templating/builtin.md)
 * [Plugins Interesantes](plugins-interesantes.md)
 * [Colaboracion y Control de Versiones](colaboracion.md)
 
