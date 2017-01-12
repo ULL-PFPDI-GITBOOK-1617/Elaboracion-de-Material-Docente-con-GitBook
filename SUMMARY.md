@@ -34,5 +34,6 @@
     * [Variables](templating/variables.md)
     * [Builtin](templating/builtin.md)
 * [Plugins Interesantes](plugins-interesantes.md)
+* [GitBook y GitHub](gitbook-y-github.md)
 * [Colaboracion y Control de Versiones](colaboracion.md)
 
