@@ -1,8 +1,12 @@
 # Summary
 
+### Recursos
+* [Aula Virtual](https://campusvirtual.ull.es/formacion/course/view.php?id=2444)
+* [Organización GitHub](https://github.com/ULL-PFPDI-GITBOOK-1617)
+
 ### Introducción
 
-* [Aula Virtual](https://campusvirtual.ull.es/formacion/course/view.php?id=2444)
+
 * [Introducción](README.md)
 * [MarkDown](syntax/markdown.md)
     * [Headings](syntax/markdown.md#headings)
