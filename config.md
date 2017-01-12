@@ -16,6 +16,23 @@ GitBook allows you to customize your book using a flexible configuration. These 
 | `direction` | Text's direction. Can be `rtl` or `ltr`, the default value depends on the value of `language` |
 | `gitbook` | Version of GitBook that should be used. Uses the [SemVer](http://semver.org) specification and accepts conditions like `">= 3.0.0"` |
 
+Ejemplo de `structure`:
+```json
+{
+    "structure": {
+        "readme": "myIntro.md"
+    },
+    "plugins": ["scripts"],
+    "pluginsConfig": {
+        "scripts": {
+            "files": [
+                "./gtm-analytics.js"
+            ]
+        }
+    }
+}
+```
+
 ### Plugins
 
 Plugins and their configurations are specified in the `book.json`. See [the plugins section](plugins/README.md) for more details.
