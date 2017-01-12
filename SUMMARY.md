@@ -3,6 +3,7 @@
 ### Recursos
 * [Aula Virtual](https://campusvirtual.ull.es/formacion/course/view.php?id=2444)
 * [Organización GitHub](https://github.com/ULL-PFPDI-GITBOOK-1617)
+* [GitHub Classroom](https://classroom.github.com/classrooms/24248551-ull-pfpdi-gitbook-1617)
 
 ### Introducción
 
