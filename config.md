@@ -16,7 +16,7 @@ GitBook allows you to customize your book using a flexible configuration. These 
 | `direction` | Text's direction. Can be `rtl` or `ltr`, the default value depends on the value of `language` |
 | `gitbook` | Version of GitBook that should be used. Uses the [SemVer](http://semver.org) specification and accepts conditions like `">= 3.0.0"` |
 
-Ejemplo de `structure`:
+Ejemplo de `structure` (del libro [Front-End Developer Handbook 2016](https://www.gitbook.com/book/frontendmasters/front-end-handbook/details):
 ```json
 {
     "structure": {
