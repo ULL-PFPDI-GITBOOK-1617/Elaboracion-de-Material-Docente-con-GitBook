@@ -32,7 +32,8 @@ Ejemplo de `structure` (del libro [Front-End Developer Handbook 2016](https://ww
     }
 }
 ```
-Otro ejemplo del libro []():
+Otro ejemplo del libro [Presentaciones de SYTW](https://ull-esit-sytw-1617.github.io/presentaciones-todos/) alojado en `https://ull-esit-sytw-1617.github.io/presentaciones-todos/`:
+
 ```json
 {
   "language": "es",
