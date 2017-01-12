@@ -1,12 +1,13 @@
 {
     "plugins": [
         "-page-toc-button",
-        "page-toc"
+        "page-toc",
+        "youtube"
     ],
     "pluginsConfig": {
         "page-toc-button": {
             "maxTocDepth": 2,
             "minTocSize": 2
-         }
+        }
     }
 }
