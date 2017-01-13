@@ -12,5 +12,5 @@
             "minTocSize": 2
         }
     },
-    "theme": "../clarity/lib"
+    "theme": "/Users/casiano/GitBook/Library/casianorodriguezleon/elaboracion-de-material-docente-con-gitbook/node_modules/gitbook-plugin-theme-clarity/lib/"
 }
