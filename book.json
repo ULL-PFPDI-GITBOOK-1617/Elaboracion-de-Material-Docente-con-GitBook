@@ -12,5 +12,5 @@
             "minTocSize": 2
         }
     },
-    "theme": "node_modules/gitbook-theme-clarity/lib"
+    "theme": "../clarity/lib"
 }
