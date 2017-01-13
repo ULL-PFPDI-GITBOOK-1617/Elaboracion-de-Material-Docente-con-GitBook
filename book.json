@@ -2,7 +2,8 @@
     "plugins": [
         "-page-toc-button",
         "page-toc",
-        "youtube"
+        "youtube",
+        "theme-clarity"
     ],
     "pluginsConfig": {
         "page-toc-button": {
