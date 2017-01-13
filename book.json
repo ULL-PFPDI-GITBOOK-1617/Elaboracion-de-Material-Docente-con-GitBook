@@ -11,6 +11,7 @@
             "maxTocDepth": 2,
             "minTocSize": 2
         }
-    }
+    },
+    "theme": "node_modules/gitbook-plugin-theme-clarity/"
    
 }
