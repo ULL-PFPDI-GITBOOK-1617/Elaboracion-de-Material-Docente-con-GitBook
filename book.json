@@ -3,14 +3,13 @@
         "-page-toc-button",
         "page-toc",
         "youtube",
-        "theme-clarity"
+        "theme-creative"
     ],
     "pluginsConfig": {
         "page-toc-button": {
             "maxTocDepth": 2,
             "minTocSize": 2
         }
-    },
-    "theme": "node_modules/gitbook-plugin-theme-clarity/"
-   
+    }
+       
 }
