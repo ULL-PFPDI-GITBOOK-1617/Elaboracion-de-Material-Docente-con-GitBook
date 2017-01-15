@@ -6,3 +6,4 @@
 ## Documentación de GitBook
 
 * [GitBook Documentation](https://www.gitbook.com/book/gitbookio/documentation/details)
+* [GitBook Help Center](https://help.gitbook.com/) FAQ sobre GitBook
