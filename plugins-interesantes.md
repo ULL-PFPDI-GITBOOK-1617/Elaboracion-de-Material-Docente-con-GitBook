@@ -20,7 +20,7 @@ El fuente del libro puede descargarse desde GitHub (`git@github.com:crguezl/gitb
   * [copy-code-button](https://casianorodriguezleon.gitbooks.io/gitbookexample/content/copy-code-button.html)
   * [mermaid](mermaid.html)
 
-* [Que no me funcionan](nofuncionan.html)
+* [Que no me funcionan](https://casianorodriguezleon.gitbooks.io/gitbookexample/content/nofuncionan.html)
   * [quizzes](https://casianorodriguezleon.gitbooks.io/gitbookexample/content/quizzes.html)
   * [autocover](https://casianorodriguezleon.gitbooks.io/gitbookexample/content/autocover.html)
   * [web sequence diagrams](https://casianorodriguezleon.gitbooks.io/gitbookexample/content/websequencediagrams.html)
