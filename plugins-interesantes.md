@@ -19,6 +19,7 @@ El fuente del libro puede descargarse desde GitHub (`git@github.com:crguezl/gitb
   * [jazer](https://casianorodriguezleon.gitbooks.io/gitbookexample/content/jazer.html)
   * [copy-code-button](https://casianorodriguezleon.gitbooks.io/gitbookexample/content/copy-code-button.html)
   * [mermaid](mermaid.html)
+  * [collapsible-menu](https://github.com/rtCamp/gitbook-plugin-collapsible-menu)
 
 * [Que no me funcionan](https://casianorodriguezleon.gitbooks.io/gitbookexample/content/nofuncionan.html)
   * [quizzes](https://casianorodriguezleon.gitbooks.io/gitbookexample/content/quizzes.html)
