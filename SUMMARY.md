@@ -1,14 +1,12 @@
 # Summary
 
-### Recursos
+## Recursos
 * [Aula Virtual](https://campusvirtual.ull.es/formacion/course/view.php?id=2444)
 * [Organización GitHub](https://github.com/ULL-PFPDI-GITBOOK-1617)
 * [GitHub Classroom](https://classroom.github.com/classrooms/24248551-ull-pfpdi-gitbook-1617)
 * [Guía Docente](https://coromoto.gitbooks.io/elaboracion-de-documentos-con-gitbook/content/)
 
-### Introducción
-
-
+## Introducción
 * [Introducción](README.md)
 * [MarkDown](syntax/markdown.md)
     * [Headings](syntax/markdown.md#headings)
@@ -26,13 +24,16 @@
 * [Jerarquía de Directorios](structure.md)
 * [eBook y PDF](ebook.md)
 
-### Tópicos Avanzados
-
+## Tópicos Avanzados
+* [Portada](portada.md)
 * [Configuration](config.md)
+* Glosario
+* Partes del documento
 * [Templating](templating/README.md)
     * [Content References](templating/conrefs.md)
     * [Variables](templating/variables.md)
     * [Builtin](templating/builtin.md)
+* [Idiomas](idiomas.md)
 * [Plugins Interesantes](plugins-interesantes.md)
 * [GitBook y GitHub](gitbook-y-github.md)
 * [Colaboracion y Control de Versiones](colaboracion.md)
