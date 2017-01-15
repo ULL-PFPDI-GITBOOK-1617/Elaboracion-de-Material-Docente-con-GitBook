@@ -14,4 +14,5 @@
 * [Examples](https://toolchain.gitbook.com/examples.html)
 
 
-### [GitBook Help Center](https://help.gitbook.com/) FAQ sobre GitBook
+### [GitBook Help Center](https://help.gitbook.com/) 
+* [FAQ sobre GitBook](https://help.gitbook.com/)
