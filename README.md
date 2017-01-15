@@ -5,5 +5,5 @@
 
 ## Documentación de GitBook
 
-* [GitBook Documentation](https://www.gitbook.com/book/gitbookio/documentation/details)
+* [GitBook Toolchain Documentation](https://toolchain.gitbook.com/)
 * [GitBook Help Center](https://help.gitbook.com/) FAQ sobre GitBook
