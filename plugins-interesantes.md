@@ -20,6 +20,8 @@ El fuente del libro puede descargarse desde GitHub (`git@github.com:crguezl/gitb
   * [copy-code-button](https://casianorodriguezleon.gitbooks.io/gitbookexample/content/copy-code-button.html)
   * [mermaid](mermaid.html)
   * [collapsible-menu](https://github.com/rtCamp/gitbook-plugin-collapsible-menu)
+  * [codetabs](https://github.com/GitbookIO/plugin-codetabs)
+    - Include multiple languages code block to your GitBook
 
 * [Que no me funcionan](https://casianorodriguezleon.gitbooks.io/gitbookexample/content/nofuncionan.html)
   * [quizzes](https://casianorodriguezleon.gitbooks.io/gitbookexample/content/quizzes.html)
