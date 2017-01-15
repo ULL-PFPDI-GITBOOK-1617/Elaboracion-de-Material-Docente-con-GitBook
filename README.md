@@ -7,6 +7,8 @@
 
 ### [GitBook Toolchain Documentation](https://toolchain.gitbook.com/)
 
+El libro con la documentación se divide en las siguientes partes:
+
 * Getting Started
 * Customization
 * Plugin Development
