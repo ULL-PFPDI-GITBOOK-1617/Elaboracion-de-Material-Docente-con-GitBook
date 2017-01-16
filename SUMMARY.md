@@ -31,6 +31,7 @@
 * [Partes de un documento](partes-de-un-documento.md)
 * [Estructura de directorios](structure.md)
 * [eBook y PDF](ebook.md)
+* [Importación de documentos](syntax/importacion.md)
 
 ## Tópicos Avanzados
 
