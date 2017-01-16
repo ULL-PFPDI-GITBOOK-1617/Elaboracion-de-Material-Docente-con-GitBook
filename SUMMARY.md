@@ -40,10 +40,11 @@
 * [Idiomas](idiomas.md)
 * [Plugins Interesantes](plugins-interesantes.md)
   * [Disqus](disqus.md)
-* [GitBook y GitHub](gitbook-y-github.md)
+
 
 ## Colaboración y Control de Versiones
 
+* [GitBook y GitHub](gitbook-y-github.md)
 * [Colaboracion y Control de Versiones](colaboracion.md)
 
 ## Configuración y Templating
