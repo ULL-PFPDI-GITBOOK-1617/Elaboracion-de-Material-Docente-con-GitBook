@@ -250,6 +250,48 @@ GitBook supports use of raw HTML in your text, Markdown syntax in HTML is not pr
 Markdown here will not be **parsed**
 </div>
 ```
+<div>
+Markdown here will not be **parsed**
+</div>
+&nbsp;
+          
+```
+<table style="width:100%">
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th> 
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td> 
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td> 
+    <td>94</td>
+  </tr>
+</table>
+```
+<table style="width:100%">
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th> 
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td> 
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td> 
+    <td>94</td>
+  </tr>
+</table>
+
 
 ### Horizontal Rule
 
@@ -268,6 +310,9 @@ Asterisks
 
 ```
 
+---
+
+
 ### Ignoring Markdown formatting
 
 You can tell GitBook to ignore (or escape) Markdown formatting by using `\` before the Markdown character.
@@ -276,8 +321,9 @@ You can tell GitBook to ignore (or escape) Markdown formatting by using `\` befo
 Let's rename \*our-new-project\* to \*our-old-project\*.
 ```
 
+Let's rename \*our-new-project\* to \*our-old-project\*.
 
-
+---
 
 [^2]: Comment to include in footnote.
 
