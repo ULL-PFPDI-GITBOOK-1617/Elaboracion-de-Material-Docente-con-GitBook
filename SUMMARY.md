@@ -27,7 +27,8 @@
 ## Tópicos Avanzados
 * [Portada](portada.md)
 * [Configuration](config.md)
-* Glosario
+* [Partes de un documento](partes-de-un-documento.md)
+* [Glosario](glosario.md)
 * Partes del documento
 * [Templating](templating/README.md)
     * [Content References](templating/conrefs.md)
