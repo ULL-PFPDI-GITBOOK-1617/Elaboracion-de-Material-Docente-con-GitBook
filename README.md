@@ -6,9 +6,9 @@ Es posible [traducir desde Markdown](#pandoc) a múltiples formatos
 
 ## Historia
 
-John Gruber creó el lenguaje Markdown en 2004, con una ayuda importante de [Aaron Swartz] en la sintaxis. Gruber tenía la meta de hacer que la gente "pudiera escribir usando un formato de texto plano fácil-de-leer y fácil-de-escribir, y con la posibilidad de poder convertir su documento en XHTML (o HTML) válido”.
+John Gruber creó el lenguaje Markdown en 2004, con una ayuda importante de Aaron Swartz en la sintaxis. Gruber tenía la meta de hacer que la gente "pudiera escribir usando un formato de texto plano fácil-de-leer y fácil-de-escribir, y con la posibilidad de poder convertir su documento en XHTML (o HTML) válido”.
 
-![John Gruber](assets/John_Gruber.jpeg)
+[![John Gruber](assets/John_Gruber.jpeg)](https://en.wikipedia.org/wiki/John_Gruber)
 
 La clave del diseño de Markdown es la facilidad de su lectura –que hace que el lenguaje sea fácilmente interpretado, sin lucir como si hubiera sido marcado con etiquetas o instrucciones de estilo. 
 
