@@ -21,13 +21,13 @@
     * [HTML](syntax/markdown.md#html)
     * [Footnotes](syntax/markdown.md#footnotes)
 * [El Índice o SUMMARY y las Páginas](pages.md)
+* [Partes de un documento](partes-de-un-documento.md)
 * [Jerarquía de Directorios](structure.md)
 * [eBook y PDF](ebook.md)
 
 ## Tópicos Avanzados
 * [Portada](portada.md)
 * [Configuration](config.md)
-* [Partes de un documento](partes-de-un-documento.md)
 * [Glosario](glosario.md)
 * [Idiomas](idiomas.md)
 * [Plugins Interesantes](plugins-interesantes.md)
