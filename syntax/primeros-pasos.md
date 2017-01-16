@@ -22,3 +22,7 @@ Una vez introducida esta información, aparecerá una ventana desde la que podre
 En la interfaz podemos diferenciar tres zonas principales: la barra de herramientas superior, el panel lateral izquierdo y la zona central de edición. 
 
 En la barra de herramientas podemos encontrar botones para (de izquierda a derecha): botones para guardar y ver la versión compilada, botones para la edición en markdown, opciones de visualización y opciones para la configuración del libro.
+
+En el panel izquierdo se puede alternar entre la visualización de la lista de archivos del directorio raíz o la vista en formato de índice de contenidos.
+
+En la pantalla central se puede editar directamente el contenido del libro. Es de mucha utilidad el `Document Mode` para ver en la zona izquierda el fuente y en la zona derecha su previsualización.
