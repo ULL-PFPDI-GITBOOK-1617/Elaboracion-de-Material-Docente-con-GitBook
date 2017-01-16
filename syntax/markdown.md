@@ -323,8 +323,14 @@ Let's rename \*our-new-project\* to \*our-old-project\*.
 
 Let's rename \*our-new-project\* to \*our-old-project\*.
 
+### Markdown desde la interfaz
+
+![](/assets/MarkdownInterfaz.jpg)
+
 ---
 
 [^2]: Comment to include in footnote.
+
+
 
 
