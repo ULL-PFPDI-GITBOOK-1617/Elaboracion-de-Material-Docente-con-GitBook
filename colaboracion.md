@@ -11,6 +11,10 @@ The originating branch is sometimes called the upstream branch.
 
 ![Creación de una rama a partir de otra](assets/crearama.png)
 
+## Commits
+
+![Commits](assets/commits.png)
+
 ## Mezclar ramas
 
 Branching also generally implies the ability to later merge or integrate changes back onto the parent branch. 
