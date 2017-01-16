@@ -1,4 +1,3 @@
-## Quiz
 
 <quiz name="Gitbook Quiz">
     <question multiple>
