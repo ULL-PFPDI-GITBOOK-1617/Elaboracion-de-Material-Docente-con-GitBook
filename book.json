@@ -6,7 +6,12 @@
         "theme-creative",
         "image-captions",
         "disqus",
-        "quiz"
+        "quiz",
+        "copy-code-button",
+        "emphasize",
+        "exercises",
+        "jazer",
+        "autocover"
     ],
     "pluginsConfig": {
         "page-toc-button": {
