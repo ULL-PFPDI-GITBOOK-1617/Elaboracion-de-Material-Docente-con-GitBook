@@ -20,7 +20,7 @@
     * [Code](syntax/markdown.md#code)
     * [HTML](syntax/markdown.md#html)
     * [Footnotes](syntax/markdown.md#footnotes)
-* [El README y el SUMMARY](readmesummary.md)
+* [Resumen y tabla de contenidos](readmesummary.md)
 * [Partes de un documento](partes-de-un-documento.md)
 * [Jerarquía de Directorios](structure.md)
 * [eBook y PDF](ebook.md)
@@ -37,11 +37,9 @@
 * [Colaboracion y Control de Versiones](colaboracion.md)
 
 ## Configuración y Templating
-
 * [Configuration](config.md)
 * [Templating](templating/README.md)
     * [Content References](templating/conrefs.md)
     * [Variables](templating/variables.md)
     * [Builtin](templating/builtin.md)
-
 

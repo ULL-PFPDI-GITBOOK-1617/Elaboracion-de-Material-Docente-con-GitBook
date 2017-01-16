@@ -1,14 +1,14 @@
-# El README y el SUMMARY
+# Resumen y tabla de contenidos
 
-### Readme
+### Readme (resumen)
 
-GitBook uses a `README.md` file to introduce the book: objectives and main contents.
+GitBook uses a `README.md` file to summarize the objectives and main contents of the book.
 
 Both, the book itself and any of its chapters, has a `README.md` as an introduction or a prologue for the book or chapter.
 
 Both the book itself and any chapter of it has a readme as an introduction or a prologue of it
 
-### Summary
+### Summary (tabla de contenidos)
 
 GitBook uses a `SUMMARY.md` file to define the structure of chapters and subchapters of the book. The `SUMMARY.md` file is used to generate the book's table of contents.
 
