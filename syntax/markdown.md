@@ -6,7 +6,7 @@ Markdown is default parser for GitBook, but one can also opt for the [AsciiDoc s
 
 Here’s an overview of Markdown syntax that you can use with GitBook (same as GitHub with some additions).
 
-### Headings
+### Headings {#headings}
 
 To create a heading, add one to six `#` symbols before your heading text. The number of # you use will determine the size of the heading.
 
@@ -126,7 +126,7 @@ This is [an example](http://example.com/ "Title") inline link with a title.
 Links can point to relative paths, anchors or absolute urls.
 
 
-### References
+##### References 
 
 There is another way to create links which does not interrupt the text flow. The URL and title are defined using a reference name and this reference name is then used in square brackets instead of the link URL:
 
@@ -227,19 +227,6 @@ Text phrases can be marked up as code by surrounding them with backticks:
 Use `gitbook` to convert the `text` in markdown
 syntax to HTML.
 
-### Footnotes
-
-GitBook supports a simple syntax for such footnotes. Footnotes are relative to each pages.
-
-```markdown
-Text prior to footnote reference.[^2]
-
-[^2]: Comment to include in footnote.
-```
-
-Text prior to footnote reference.[^2]
-
-
 
 ### HTML
 
@@ -292,8 +279,19 @@ Markdown here will not be **parsed**
   </tr>
 </table>
 
+### Footnotes {#footnotes}
 
-### Horizontal Rule
+GitBook supports a simple syntax for such footnotes. Footnotes are relative to each pages.
+
+```markdown
+Text prior to footnote reference.[^2]
+
+[^2]: Comment to include in footnote.
+```
+
+Text prior to footnote reference.[^2]
+
+### Horizontal Rule {#hrule}
 
 Horizontal Rules can be inserted using three or more asterisks, dashes or underscores, optionally separated by spaces or tabs, on an otherwise blank line:
 
@@ -313,7 +311,7 @@ Asterisks
 ---
 
 
-### Ignoring Markdown formatting
+### Ignoring Markdown formatting {#ignoring}
 
 You can tell GitBook to ignore (or escape) Markdown formatting by using `\` before the Markdown character.
 
@@ -323,7 +321,7 @@ Let's rename \*our-new-project\* to \*our-old-project\*.
 
 Let's rename \*our-new-project\* to \*our-old-project\*.
 
-### Fórmulas matemáticas
+### Fórmulas matemáticas {#math}
 
 ```
 Esto es una fórmula: 
@@ -333,9 +331,9 @@ Esto es una fórmula:
 
 Para las fórmulas Matemáticas se puede utilizar LaTeX.
 
-### Markdown desde la interfaz
+### Markdown desde la interfaz {#interfaz}
 
-![](/assets/MarkdownInterfaz.jpg)
+![Interfaz Markdown](/assets/MarkdownInterfaz.jpg)
 
 ---
 
