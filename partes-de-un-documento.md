@@ -25,7 +25,7 @@ The Table of Contents can be divided into parts separated by headings or horizon
 
 Parts are just groups of chapters and do not have dedicated pages, but according to the theme, it will show in the navigation.
 
-Es recomendable crear un directorio para cada una de las partes. Nos permitirá agrupar sus páginas, `README.md`, etc.
+Es recomendable crear un directorio para cada una de las partes o capítulos de un libro. Esto nos permitirá agrupar de forma clara sus páginas, `README.md`, etc.
 
 ### Pages
 

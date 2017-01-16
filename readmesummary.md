@@ -2,7 +2,7 @@
 
 ### Readme (resumen)
 
-GitBook uses a `README.md` file to summarize the objectives and main contents of the book.
+GitBook uses a `README.md` file to summarize the objectives and main contents of the book. It's the preface of the book.
 
 Both, the book itself and any of its chapters, has a `README.md` as an introduction or a prologue for the book or chapter.
 
