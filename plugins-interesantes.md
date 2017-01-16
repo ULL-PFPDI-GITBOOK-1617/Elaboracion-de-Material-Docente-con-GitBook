@@ -25,6 +25,7 @@ El fuente del libro puede descargarse desde GitHub (`git@github.com:crguezl/gitb
   * [js-console](https://www.npmjs.com/package/gitbook-plugin-js-console)
   * [image-captions](https://www.npmjs.com/package/gitbook-plugin-image-captions)
     - [Ejemplo](https://tdvorak.gitbooks.io/test-book/content/phetchaburi.html)
+    - [Fuente del ejemplo](https://github.com/crguezl/tdvorak-image-captions-plugin-test)
 * [Que no me funcionan](https://casianorodriguezleon.gitbooks.io/gitbookexample/content/nofuncionan.html)
   * [quizzes](https://casianorodriguezleon.gitbooks.io/gitbookexample/content/quizzes.html)
   * [autocover](https://casianorodriguezleon.gitbooks.io/gitbookexample/content/autocover.html)
