@@ -23,6 +23,10 @@ Una cantidad de sitios usa algunas variantes de Markdown para facilitar la discu
 * [Crear una cuenta en GitHub](https://github.com/join?source=header-home)
 * [Crear una cuenta en GitBook](https://www.gitbook.com/join)
 
+## Instalar GitHub Desktop 
+
+* [Instalar GitHub Desktop](https://desktop.github.com/)
+* [Instalr GitBook Desktop Editor](https://www.gitbook.com/editor)
 
 ## Pandoc {#pandoc}
 
