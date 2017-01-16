@@ -3,9 +3,9 @@
 Para hacer tu libro mas elegante en Gitbook puedes añadir una portada
 
 Para incluir una portada necesitamos una imagen JPG.
-Podemos añadir dicha imagen mediante un archivo llamado **cover.jpg** o si queremos una versión mas pequeña de la portada podemos añadir un archivo llamado **cover_small_jpg**.
+Podemos añadir dicha imagen mediante un archivo llamado `cover.jpg` o si queremos una versión mas pequeña de la portada podemos añadir un archivo llamado `cover_small_jpg`.
 
-El tamaño recomendado para el archivo **cover.jpg** es de **1800x2360** pixeles y el de **cover_small.jpg** de **200x262** pixeles
+El tamaño recomendado para el archivo `cover.jpg` es de `1800x2360` pixeles y el de `cover_small.jpg` de `200x262` pixeles
 
 
 |         | Grande    | Pequeño         |
