@@ -153,7 +153,7 @@ Images can be created in a similar way than links: just use an exclamation mark 
 An image: ![GitBook](img/image.jpg)
 ```
 ![GitBook](/img/image.jpg)
-
+![](/assets/image.jpg)
 
 ### Blockquotes {#blockquotes}
 
