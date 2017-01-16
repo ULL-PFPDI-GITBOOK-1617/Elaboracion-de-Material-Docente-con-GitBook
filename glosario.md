@@ -4,9 +4,9 @@ El glosario permite especificar términos y sus respectivas definiciones. Basado
 
 Se trata de un fichero llamado GLOSSARY.md y su formato es bastante simple:
 ```
-# Término
+## Término
 Definición para este termino
 
-# Otro término
+## Otro término
 Otro termino, puede contener formato markdown.
 ```
