@@ -3,7 +3,8 @@
         "-page-toc-button",
         "page-toc",
         "youtube",
-        "theme-creative"
+        "theme-creative",
+        "image-captions"
     ],
     "pluginsConfig": {
         "page-toc-button": {
@@ -11,5 +12,4 @@
             "minTocSize": 2
         }
     }
-       
 }
