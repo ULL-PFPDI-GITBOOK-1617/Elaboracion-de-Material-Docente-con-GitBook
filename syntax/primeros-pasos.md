@@ -13,7 +13,12 @@ Veremos que se nos ofrecen plantillas para la creación de tres tipos de documen
 
 En este caso, seleccionaremos la opción `BOOK & MANUAL` y, a continuación, se nos solicitará un título y una descripción para el libro.
 
-Una vez introducida esta información, aparecerá una ventana desde la que podremos elegir si queremos empezar a editar nuestro libro o si por el contrario queremos iniciar una importación a través de un documento existente. Elegiremos la opción _comenzar a editar_ y veremos en pantalla una interfaz como la siguiente. 
+Una vez introducida esta información, aparecerá una ventana desde la que podremos elegir si queremos empezar a editar nuestro libro o si por el contrario queremos iniciar una importación a través de un documento existente. 
+
+![Editar o importar](/assets/editimport_book.jpg)
+    
+
+Elegiremos la opción _comenzar a editar_ y veremos en pantalla una interfaz como la siguiente. 
 
 ![Editar nuevo libro](/assets/nuevolibro.jpg)
 
