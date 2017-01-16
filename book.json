@@ -12,7 +12,7 @@
             "minTocSize": 2
         },
           "image-captions": {
-          "caption": "Imagen - _CAPTION_"
+          "caption": "Imagen - _PAGE_LEVEL_._PAGE_IMAGE_NUMBER_ - _CAPTION_"
       }
     }
 }
