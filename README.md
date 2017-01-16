@@ -26,7 +26,7 @@ Una cantidad de sitios usa algunas variantes de Markdown para facilitar la discu
 ## Instalar GitHub Desktop 
 
 * [Instalar GitHub Desktop](https://desktop.github.com/)
-* [Instalr GitBook Desktop Editor](https://www.gitbook.com/editor)
+* [Instalar GitBook Desktop Editor](https://www.gitbook.com/editor)
 
 ## Pandoc {#pandoc}
 
