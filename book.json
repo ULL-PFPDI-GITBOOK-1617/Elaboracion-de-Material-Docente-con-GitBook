@@ -10,6 +10,9 @@
         "page-toc-button": {
             "maxTocDepth": 2,
             "minTocSize": 2
-        }
+        },
+          "image-captions": {
+          "caption": "Imagen - _CAPTION_"
+      }
     }
 }
