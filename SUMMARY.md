@@ -30,17 +30,16 @@
 * [Glosario](glosario.md)
 * [Idiomas](idiomas.md)
 * [Plugins Interesantes](plugins-interesantes.md)
+    * [Disqus](disqus.md)
 * [GitBook y GitHub](gitbook-y-github.md)
 
 ## Colaboración y Control de Versiones
 * [Colaboracion y Control de Versiones](colaboracion.md)
 
 ## Configuración y Templating
-
 * [Configuration](config.md)
 * [Templating](templating/README.md)
     * [Content References](templating/conrefs.md)
     * [Variables](templating/variables.md)
     * [Builtin](templating/builtin.md)
-
 

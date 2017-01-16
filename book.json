@@ -4,15 +4,20 @@
         "page-toc",
         "youtube",
         "theme-creative",
-        "image-captions"
+        "image-captions",
+        "disqus"
     ],
     "pluginsConfig": {
         "page-toc-button": {
             "maxTocDepth": 2,
             "minTocSize": 2
         },
-          "image-captions": {
-          "caption": "Imagen - _PAGE_LEVEL_._PAGE_IMAGE_NUMBER_ - _CAPTION_"
-      }
+        "image-captions": {
+            "caption": "Imagen - _PAGE_LEVEL_._PAGE_IMAGE_NUMBER_ - _CAPTION_"
+        },
+        "disqus": {
+            "shortName": "CursoGitbook",
+            "useIdentifier": false
+        }
     }
 }
