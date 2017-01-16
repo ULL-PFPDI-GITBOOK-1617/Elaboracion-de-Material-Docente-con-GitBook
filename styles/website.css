@@ -1,6 +1,7 @@
 /* CSS for website */
 figure {
-    margin: 1.5em 0px;
+    /* margin: 1.5em 0px;*/
+    margin: auto;
     padding:10px 0;
 }
  
