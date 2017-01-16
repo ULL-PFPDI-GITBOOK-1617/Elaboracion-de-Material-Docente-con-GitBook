@@ -62,3 +62,4 @@ En el fichero `part1/README.md`deberá aparecer algo como esto:
 
 ```
 
+Los ficheros que no estén incluidos en el archivo SUMMARY no serán mostrados.

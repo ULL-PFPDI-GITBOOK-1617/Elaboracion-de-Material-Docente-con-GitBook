@@ -22,7 +22,7 @@
     * [Footnotes](syntax/markdown.md#footnotes)
 * [Resumen y tabla de contenidos](readmesummary.md)
 * [Partes de un documento](partes-de-un-documento.md)
-* [Jerarquía de Directorios](structure.md)
+* [Estructura de directorios](structure.md)
 * [eBook y PDF](ebook.md)
 
 ## Tópicos Avanzados

@@ -1,6 +1,6 @@
 # Directory Structure
 
-GitBook uses a simple directory structure. All Markdown/Asciidoc files listed in the [SUMMARY](pages.md) will be transformed as HTML. Multi-Lingual books have a slightly [different structure](languages.md).
+GitBook uses a simple directory structure. All Markdown/Asciidoc files listed in the [SUMMARY](readmesummary.md) will be transformed as HTML. Multi-Lingual books have a slightly [different structure](languages.md).
 
 A basic GitBook usually looks something like this:
 
