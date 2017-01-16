@@ -1,49 +1,57 @@
 # Summary
 
 ## Recursos
+
 * [Aula Virtual](https://campusvirtual.ull.es/formacion/course/view.php?id=2444)
 * [Organización GitHub](https://github.com/ULL-PFPDI-GITBOOK-1617)
 * [GitHub Classroom](https://classroom.github.com/classrooms/24248551-ull-pfpdi-gitbook-1617)
 * [Guía Docente](https://coromoto.gitbooks.io/elaboracion-de-documentos-con-gitbook/content/)
 
 ## Introducción
+
 * [Introducción](README.md)
+* [Primeros pasos](syntax/primeros-pasos)
 * [MarkDown](syntax/markdown.md)
-    * [Headings](syntax/markdown.md#headings)
-    * [Párrafos](syntax/markdown.md#parrafos)
-    * [Emphasis](syntax/markdown.md#emphasis)
-    * [Lists](syntax/markdown.md#lists)
-    * [Links](syntax/markdown.md#links)
-    * [Images](syntax/markdown.md#images)
-    * [Blockquotes](syntax/markdown.md#blockquotes)
-    * [Tables](syntax/markdown.md#tables)
-    * [Code](syntax/markdown.md#code)
-    * [HTML](syntax/markdown.md#html)
-    * [Footnotes](syntax/markdown.md#footnotes)
-    * [Horizontal rule](syntax/markdown.md#hrule)
-    * [Ignoring markdown format](syntax/markdown.md#ignoring)
-    * [Fórmulas Matemáticas](syntax/markdown.md#math)
-    * [Markdown desde la interfaz gráfica](syntax/markdown.md#interfaz)
+  * [Headings](syntax/markdown.md#headings)
+  * [Párrafos](syntax/markdown.md#parrafos)
+  * [Emphasis](syntax/markdown.md#emphasis)
+  * [Lists](syntax/markdown.md#lists)
+  * [Links](syntax/markdown.md#links)
+  * [Images](syntax/markdown.md#images)
+  * [Blockquotes](syntax/markdown.md#blockquotes)
+  * [Tables](syntax/markdown.md#tables)
+  * [Code](syntax/markdown.md#code)
+  * [HTML](syntax/markdown.md#html)
+  * [Footnotes](syntax/markdown.md#footnotes)
+  * [Horizontal rule](syntax/markdown.md#hrule)
+  * [Ignoring markdown format](syntax/markdown.md#ignoring)
+  * [Fórmulas Matemáticas](syntax/markdown.md#math)
+  * [Markdown desde la interfaz gráfica](syntax/markdown.md#interfaz)
 * [El resumen y la tabla de contenidos](readmesummary.md)
 * [Partes de un documento](partes-de-un-documento.md)
 * [Estructura de directorios](structure.md)
 * [eBook y PDF](ebook.md)
 
 ## Tópicos Avanzados
+
 * [Portada](portada.md)
 * [Glosario](glosario.md)
 * [Idiomas](idiomas.md)
 * [Plugins Interesantes](plugins-interesantes.md)
-    * [Disqus](disqus.md)
+  * [Disqus](disqus.md)
 * [GitBook y GitHub](gitbook-y-github.md)
 
 ## Colaboración y Control de Versiones
+
 * [Colaboracion y Control de Versiones](colaboracion.md)
 
 ## Configuración y Templating
+
 * [Configuration](config.md)
 * [Templating](templating/README.md)
-    * [Content References](templating/conrefs.md)
-    * [Variables](templating/variables.md)
-    * [Builtin](templating/builtin.md)
+  * [Content References](templating/conrefs.md)
+  * [Variables](templating/variables.md)
+  * [Builtin](templating/builtin.md)
+
+
 
