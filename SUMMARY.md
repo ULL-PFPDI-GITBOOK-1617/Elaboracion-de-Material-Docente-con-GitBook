@@ -37,6 +37,11 @@
 * [Idiomas](idiomas.md)
 * [Plugins Interesantes](plugins-interesantes.md)
     * [Youtube](youtube.md)
+    * [Copy code button](copy-code-button.md)
+    * [Emphasize](emphasize.md)
+    * [Autocover](autocover.md)
+    * [Exercises](exercises.md)
+    * [Disqus](disqus.md)
 * [GitBook y GitHub](gitbook-y-github.md)
 
 ## Colaboración y Control de Versiones
