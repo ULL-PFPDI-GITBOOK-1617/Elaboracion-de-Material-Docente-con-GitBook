@@ -324,9 +324,10 @@ Let's rename \*our-new-project\* to \*our-old-project\*.
 ### Fórmulas matemáticas {#math}
 
 ```
->Esto es una fórmula: 
->$$x=\frac{1+y}{1+2z^2}$$
+Esto es una fórmula: 
+\$\$x=\frac{1+y}{1+2z^2}\$\$
 ```
+
 
 Esto es una fórmula: 
 
