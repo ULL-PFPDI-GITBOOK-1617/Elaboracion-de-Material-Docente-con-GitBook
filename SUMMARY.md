@@ -10,7 +10,7 @@
 ## Introducción
 
 * [Introducción](README.md)
-* [Primeros pasos](syntax/primeros-pasos)
+* [Primeros pasos](syntax/primeros-pasos.md)
 * [MarkDown](syntax/markdown.md)
   * [Headings](syntax/markdown.md#headings)
   * [Párrafos](syntax/markdown.md#parrafos)
