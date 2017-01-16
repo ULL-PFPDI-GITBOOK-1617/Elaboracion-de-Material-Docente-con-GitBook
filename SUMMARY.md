@@ -34,10 +34,11 @@
 * [GitBook y GitHub](gitbook-y-github.md)
 
 ## Colaboración y Control de Versiones
-* [Colaboracion y Control de Versiones]
+* [Colaboracion y Control de Versiones](colaboracion.md)
+
 
 ## Templating
-(colaboracion.md)
+
 * [Templating](templating/README.md)
     * [Content References](templating/conrefs.md)
     * [Variables](templating/variables.md)
