@@ -13,6 +13,11 @@ $ gitbook epub ./ ./mybook.epub
 $ gitbook mobi ./ ./mybook.mobi
 ```
 
+Desde la interfaz web también se pueden generar y descargar los archivos en formato PDF, EPUB o MOBI:
+
+![Descargar archivos](/assets/DescargarPDF.jpg)
+
+
 ### Installing ebook-convert
 
 `ebook-convert` is required to generate ebooks (epub, mobi, pdf).
