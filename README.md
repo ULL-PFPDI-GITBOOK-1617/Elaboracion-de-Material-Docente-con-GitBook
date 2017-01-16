@@ -37,8 +37,6 @@ Una cantidad de sitios usa algunas variantes de Markdown para facilitar la discu
 * [Try pandoc](https://pandoc.org/try/)
 * [Descargar e Instalar pandoc](https://github.com/jgm/pandoc/releases)
 
-## Documentación de GitBook
-
 ### [GitBook Toolchain Documentation](https://toolchain.gitbook.com/)
 
 El libro con la documentación se divide en las siguientes partes:
