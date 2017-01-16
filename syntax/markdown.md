@@ -128,9 +128,6 @@ This is [an example](http://example.com/ "Title") inline link with a title.
 >[This link](http://example.net/) has no title attribute.
 
 
-
-
-
 Links can point to relative paths, anchors or absolute urls.
 
 
@@ -153,9 +150,10 @@ Then, anywhere in the document, you define your link label like this, on a line 
 Images can be created in a similar way than links: just use an exclamation mark before the square brackets. The link text will become the alternative text of the image and the link URL specifies the image source:
 
 ```markdown
-An image: ![GitBook](/img/image.jpg)
+An image: ![GitBook](img/image.jpg)
 ```
 ![GitBook](/img/image.jpg)
+
 
 ### Blockquotes {#blockquotes}
 
