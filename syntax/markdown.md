@@ -331,6 +331,7 @@ Esto es una fórmula:
 \$\$x=\frac{1+y}{1+2z^2}\$\$
 ```
 
+Para las fórmulas Matemáticas se puede utilizar LaTeX.
 
 ### Markdown desde la interfaz
 
