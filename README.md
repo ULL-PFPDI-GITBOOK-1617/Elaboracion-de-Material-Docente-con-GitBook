@@ -38,7 +38,7 @@ Una cantidad de sitios usa algunas variantes de Markdown para facilitar la discu
 
 * [Página de Pandoc](http://pandoc.org/)
 * [Try pandoc](https://pandoc.org/try/)
-* [Descargar e Instalar pandoc](https://github.com/jgm/pandoc/releases/tag/1.19.1)
+* [Descargar e Instalar pandoc](https://github.com/jgm/pandoc/releases)
 
 ## Documentación de GitBook
 
