@@ -22,7 +22,7 @@
             "caption": "Imagen - _PAGE_LEVEL_._PAGE_IMAGE_NUMBER_ - _CAPTION_"
         },
         "disqus": {
-            "shortName": "CursoGitbook",
+            "shortName": "gitbookexample",
             "useIdentifier": false
         }
     }
