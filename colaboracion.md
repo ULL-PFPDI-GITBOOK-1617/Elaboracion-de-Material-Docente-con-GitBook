@@ -22,3 +22,7 @@ Branching also generally implies the ability to later merge or integrate changes
 
 ![Mezcla de ramas](https://git-scm.com/book/en/v2/book/03-git-branching/images/basic-merging-2.png)
 
+![Mezclando la rama juan en la rama master](assets/removebranchaftermerge.png)
+
+
+
