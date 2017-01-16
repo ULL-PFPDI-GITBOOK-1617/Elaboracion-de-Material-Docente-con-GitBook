@@ -323,6 +323,15 @@ Let's rename \*our-new-project\* to \*our-old-project\*.
 
 Let's rename \*our-new-project\* to \*our-old-project\*.
 
+### Fórmulas matemáticas
+
+```
+Esto es una fórmula: 
+
+> $$x=\frac{1+y}{1+2z^2}$$
+```
+
+
 ### Markdown desde la interfaz
 
 ![](/assets/MarkdownInterfaz.jpg)
