@@ -20,9 +20,9 @@
     * [Code](syntax/markdown.md#code)
     * [HTML](syntax/markdown.md#html)
     * [Footnotes](syntax/markdown.md#footnotes)
-* [Resumen y tabla de contenidos](readmesummary.md)
+* [El Índice o SUMMARY y las Páginas](pages.md)
 * [Partes de un documento](partes-de-un-documento.md)
-* [Estructura de directorios](structure.md)
+* [Jerarquía de Directorios](structure.md)
 * [eBook y PDF](ebook.md)
 
 ## Tópicos Avanzados
@@ -30,8 +30,8 @@
 * [Glosario](glosario.md)
 * [Idiomas](idiomas.md)
 * [Plugins Interesantes](plugins-interesantes.md)
+    * [Disqus](disqus.md)
 * [GitBook y GitHub](gitbook-y-github.md)
-* [Personalizando Estilos](styles.md)
 
 ## Colaboración y Control de Versiones
 * [Colaboracion y Control de Versiones](colaboracion.md)
