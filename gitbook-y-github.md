@@ -4,6 +4,10 @@
 
 #### Crear un Gitbook a partir de un repositorio de Github
 * [Can I host my content on GitHub?](https://help.gitbook.com/github/can-i-host-on-github.html)
+
+#### Transferir un repo en GitBook a GitHub
 * [How can I transfer my content to GitHub?](https://help.gitbook.com/github/how-can-i-export-to-repo.html)
+
+#### Desplegando un libro en GitHub usando git
 * {% youtube %}https://youtu.be/Lcz69R1FDRA{% endyoutube %}
 
