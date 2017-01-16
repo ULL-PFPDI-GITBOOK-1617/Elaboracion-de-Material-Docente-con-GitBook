@@ -29,7 +29,6 @@
 * [Configuration](config.md)
 * [Partes de un documento](partes-de-un-documento.md)
 * [Glosario](glosario.md)
-* Partes del documento
 * [Templating](templating/README.md)
     * [Content References](templating/conrefs.md)
     * [Variables](templating/variables.md)
