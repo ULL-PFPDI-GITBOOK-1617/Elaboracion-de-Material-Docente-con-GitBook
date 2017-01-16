@@ -7,6 +7,8 @@ Branching, in revision control and software configuration management, is the dup
 
 The originating branch is sometimes called the upstream branch.
 
+## Mezclar ramas
+
 Branching also generally implies the ability to later merge or integrate changes back onto the parent branch. 
 
 
