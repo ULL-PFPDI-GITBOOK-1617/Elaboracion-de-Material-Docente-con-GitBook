@@ -50,6 +50,7 @@
 ## Configuración y Templating
 
 * [Dando nuestro propio estilo](https://gitbookio.gitbooks.io/documentation/content/styling/book.html)
+  - [Véase en este libro](https://github.com/ULL-PFPDI-GITBOOK-1617/Elaboracion-de-Material-Docente-con-GitBook)
 * [Configuration](config.md)
 * [Templating](templating/README.md)
   * [Content References](templating/conrefs.md)
