@@ -24,6 +24,7 @@ El fuente del libro puede descargarse desde GitHub (`git@github.com:crguezl/gitb
     - Include multiple languages code block to your GitBook
   * [js-console](https://www.npmjs.com/package/gitbook-plugin-js-console)
   * [image-captions](https://www.npmjs.com/package/gitbook-plugin-image-captions)
+    - Add nice generated captions to your book images. This plugin converts `alt` or `title` attributes of your images into the captions. Works on both the GitBook website and your own generated book (pdf, mobi).
     - [Ejemplo](https://tdvorak.gitbooks.io/test-book/content/phetchaburi.html)
     - [Fuente del ejemplo](https://github.com/crguezl/tdvorak-image-captions-plugin-test)
 * [Que no me funcionan](https://casianorodriguezleon.gitbooks.io/gitbookexample/content/nofuncionan.html)
