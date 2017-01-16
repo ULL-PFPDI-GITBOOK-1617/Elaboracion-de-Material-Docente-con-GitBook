@@ -47,10 +47,13 @@
 * [GitBook y GitHub](gitbook-y-github.md)
 * [Colaboracion y Control de Versiones](colaboracion.md)
 
-## Configuración y Templating
+## Estilos 
 
 * [Dando nuestro propio estilo](https://gitbookio.gitbooks.io/documentation/content/styling/book.html)
-  - [Véase en este libro](https://github.com/ULL-PFPDI-GITBOOK-1617/Elaboracion-de-Material-Docente-con-GitBook)
+*[Véase en el repo de este libro el directorio `styles`](https://github.com/ULL-PFPDI-GITBOOK-1617/Elaboracion-de-Material-Docente-con-GitBook)
+
+## Configuración y Templating
+
 * [Configuration](config.md)
 * [Templating](templating/README.md)
   * [Content References](templating/conrefs.md)
