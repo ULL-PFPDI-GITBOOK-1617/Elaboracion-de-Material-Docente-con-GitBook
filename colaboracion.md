@@ -9,7 +9,7 @@ The originating branch is sometimes called the upstream branch.
 
 ## Creación de ramas
 
-![Creación de una rama a partir de otra]()
+![Creación de una rama a partir de otra](assets/crearama.png)
 
 ## Mezclar ramas
 
