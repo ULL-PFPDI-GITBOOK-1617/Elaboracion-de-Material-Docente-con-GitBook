@@ -54,3 +54,5 @@ El libro con la documentación se divide en las siguientes partes:
 * [FAQ sobre GitBook](https://help.gitbook.com/)
 
 ### Ejercicios
+
+{% include "./quiz.md" %}
