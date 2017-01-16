@@ -326,12 +326,15 @@ Let's rename \*our-new-project\* to \*our-old-project\*.
 ```
 Esto es una fórmula: 
 
-\$\$x=\frac{1+y}{1+2z^2}\$\$
+\$$x=\frac{1+y}{1+2z^2}$\$
 ```
+Esto es una fórmula: 
+
+$$x=\frac{1+y}{1+2z^2}$$
 
 Para las fórmulas Matemáticas se puede utilizar LaTeX.
 
-### Markdown desde la interfaz {#interfaz}
+### Markdown desde la interfaz gráfica {#interfaz}
 
 ![Interfaz Markdown](/assets/MarkdownInterfaz.jpg)
 
