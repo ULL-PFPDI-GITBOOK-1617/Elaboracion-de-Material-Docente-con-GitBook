@@ -106,7 +106,7 @@ Ordered lists use numbers followed by periods:
    * Item 3b
 
 
-### Links {#linkings}
+### Links {#links}
 
 Markdown supports two style of links: inline and reference.
 
@@ -147,7 +147,7 @@ Images can be created in a similar way than links: just use an exclamation mark 
 ```markdown
 An image: ![GitBook](/assets/image.jpg)
 ```
-![Title](/assets/image.jpg)
+![Una imagen de GitBook](/assets/image.jpg)
 
 
 ### Blockquotes {#blockquotes}
@@ -199,11 +199,11 @@ Markdown supports two different code block styles. One uses lines indented with 
 
 You can create fenced code blocks by placing triple backticks ` ``` ` before and after the code block. We recommend placing a blank line before and after code blocks to make the raw formatting easier to read.
 
-    ```
-    function test() {
-      console.log("notice the blank line before this function?");
-    }
-    ```
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
 
 ##### Syntax highlighting
 
