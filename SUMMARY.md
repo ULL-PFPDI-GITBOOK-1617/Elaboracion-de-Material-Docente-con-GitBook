@@ -48,7 +48,7 @@
 
 ## Configuración y Templating
 
-
+* [Dando nuestro propio estilo](https://gitbookio.gitbooks.io/documentation/content/styling/book.html)
 * [Configuration](config.md)
 * [Templating](templating/README.md)
   * [Content References](templating/conrefs.md)
