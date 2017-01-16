@@ -1,6 +1,8 @@
 # Markdown
 
-Most of the examples from this documentation are in Markdown. Markdown is default parser for GitBook, but one can also opt for the [AsciiDoc syntax](asciidoc.md).
+Es un lenguaje de marcado ligero creado por John Gruber que trata de conseguir la máxima legibilidad y facilidad de publicación tanto en su forma de entrada como de salida, inspirándose en muchas convenciones existentes para marcar mensajes de correo electrónico usando texto plano. Se distribuye bajo licencia BSD y se distribuye como plugin (o al menos está disponible) en diferentes sistemas de gestión de contenidos (CMS).
+
+Markdown is default parser for GitBook, but one can also opt for the [AsciiDoc syntax](asciidoc.md).
 
 Here’s an overview of Markdown syntax that you can use with GitBook (same as GitHub with some additions).
 
@@ -14,6 +16,12 @@ To create a heading, add one to six `#` symbols before your heading text. The nu
 ###### This is an <h6> tag
 ```
 
+> # This is an &lt;h1&gt; tag
+> ## This is an &lt;h2&gt; tag
+> ###### This is an &lt;h6&gt; tag
+      
+       
+##### Header ID
 GitBook supports a nice way for explicitly setting the header ID. If you follow the header text with an opening curly bracket (separated from the text with a least one space), a hash, the ID and a closing curly bracket, the ID is set on the header. If you use the trailing hash feature of atx style headers, the header ID has to go after the trailing hashes. For example:
 
 ```markdown
