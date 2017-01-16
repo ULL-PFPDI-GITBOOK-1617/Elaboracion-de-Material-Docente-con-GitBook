@@ -52,3 +52,5 @@ El libro con la documentación se divide en las siguientes partes:
 
 ### [GitBook Help Center](https://help.gitbook.com/) 
 * [FAQ sobre GitBook](https://help.gitbook.com/)
+
+### Ejercicios
