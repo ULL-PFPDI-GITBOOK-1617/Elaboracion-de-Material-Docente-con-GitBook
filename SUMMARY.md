@@ -29,12 +29,13 @@
 * [Configuration](config.md)
 * [Partes de un documento](partes-de-un-documento.md)
 * [Glosario](glosario.md)
-* [Templating](templating/README.md)
-    * [Content References](templating/conrefs.md)
-    * [Variables](templating/variables.md)
-    * [Builtin](templating/builtin.md)
 * [Idiomas](idiomas.md)
 * [Plugins Interesantes](plugins-interesantes.md)
 * [GitBook y GitHub](gitbook-y-github.md)
 * [Colaboracion y Control de Versiones](colaboracion.md)
+* [Templating](templating/README.md)
+    * [Content References](templating/conrefs.md)
+    * [Variables](templating/variables.md)
+    * [Builtin](templating/builtin.md)
+
 
