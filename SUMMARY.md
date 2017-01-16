@@ -52,9 +52,12 @@
 * [Dando nuestro propio estilo](https://gitbookio.gitbooks.io/documentation/content/styling/book.html)
 * [Véase en el repo de este libro el directorio `styles`](https://github.com/ULL-PFPDI-GITBOOK-1617/Elaboracion-de-Material-Docente-con-GitBook)
 
-## Configuración y Templating
+## Configuración 
 
 * [Configuration](config.md)
+
+## Templating
+
 * [Templating](templating/README.md)
   * [Content References](templating/conrefs.md)
   * [Variables](templating/variables.md)
