@@ -4,7 +4,8 @@
         "page-toc",
         "youtube",
         "theme-creative",
-        "image-captions"
+        "image-captions",
+        "disqus"
     ],
     "pluginsConfig": {
         "page-toc-button": {
