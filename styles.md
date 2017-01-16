@@ -7,7 +7,7 @@ You can specify CSS files to be included in your book's website or PDF builds by
 - **styles/pdf.css**: will apply only to the PDF
 - **styles/ebook.css**: will apply only to ebook formats (PDF, Mobi, ePub)
 
-These paths can be changed in the book.json configuration, for example to use file in the root folder:
+These paths can be changed in the `book.json` configuration, for example to use file in the root folder:
 
 ```json
 {
