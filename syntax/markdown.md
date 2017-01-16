@@ -145,7 +145,7 @@ Then, anywhere in the document, you define your link label like this, on a line 
 Images can be created in a similar way than links: just use an exclamation mark before the square brackets. The link text will become the alternative text of the image and the link URL specifies the image source:
 
 ```markdown
-An image: ![GitBook](/assets/image.jpg)
+An image: ![Una imagen de GitBook](/assets/image.jpg)
 ```
 ![Una imagen de GitBook](/assets/image.jpg)
 
