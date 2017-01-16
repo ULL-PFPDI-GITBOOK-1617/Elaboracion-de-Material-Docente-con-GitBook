@@ -8,5 +8,5 @@ Se trata de un fichero llamado GLOSSARY.md y su formato es bastante simple:
 Definición para este termino
 
 ## Otro término
-Otro termino, puede contener formato markdown.
+Otro termino, puede contener formato `Markdown`.
 ```

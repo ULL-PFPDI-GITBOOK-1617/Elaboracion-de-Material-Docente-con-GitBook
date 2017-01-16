@@ -16,11 +16,6 @@ To create a heading, add one to six `#` symbols before your heading text. The nu
 ###### This is an <h6> tag
 ```
 
-> # This is an &lt;h1&gt; tag
-> ## This is an &lt;h2&gt; tag
-> ###### This is an &lt;h6&gt; tag
-      
-&nbsp;      
 ##### Header ID
 GitBook supports a nice way for explicitly setting the header ID. If you follow the header text with an opening curly bracket (separated from the text with a least one space), a hash, the ID and a closing curly bracket, the ID is set on the header. If you use the trailing hash feature of atx style headers, the header ID has to go after the trailing hashes. For example:
 
@@ -150,10 +145,10 @@ Then, anywhere in the document, you define your link label like this, on a line 
 Images can be created in a similar way than links: just use an exclamation mark before the square brackets. The link text will become the alternative text of the image and the link URL specifies the image source:
 
 ```markdown
-An image: ![GitBook](img/image.jpg)
+An image: ![GitBook](/assets/image.jpg)
 ```
-![GitBook](/img/image.jpg)
-![](/assets/image.jpg)
+![Una imagen de GitBook](/assets/image.jpg)
+
 
 ### Blockquotes {#blockquotes}
 
@@ -166,6 +161,11 @@ As Kanye West said:
 > the present is our past.
 ```
 
+As Kanye West said:
+> We're living the future so
+> the present is our past.
+
+
 ### Tables {#tables}
 
 You can create tables by assembling a list of words and dividing them with hyphens `-` (for the first row), and then separating each column with a pipe `|`:
@@ -177,28 +177,33 @@ You can create tables by assembling a list of words and dividing them with hyphe
 | Content Cell  | Content Cell  |
 ```
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  | 
+| Content Cell  | Content Cell  |
+
+
 The pipes on either end of the table are optional. Cells can vary in width and do not need to be perfectly aligned within columns. There must be at least three hyphens in each column of the header row.
+
 
 ### Code {#code}
 
 Markdown supports two different code block styles. One uses lines indented with either four spaces or one tab whereas the other uses lines with tilde characters as delimiters – therefore the content does not need to be indented:
 
-```markdown
-This is a sample code block.
+    This is a sample code block.
 
     Continued here.
 
-```
-
+   
 ##### Fenced code blocks
 
 You can create fenced code blocks by placing triple backticks ` ``` ` before and after the code block. We recommend placing a blank line before and after code blocks to make the raw formatting easier to read.
 
-    ```
-    function test() {
-      console.log("notice the blank line before this function?");
-    }
-    ```
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
 
 ##### Syntax highlighting
 
@@ -219,6 +224,9 @@ Text phrases can be marked up as code by surrounding them with backticks:
     Use `gitbook` to convert the `text` in markdown
     syntax to HTML.
 
+Use `gitbook` to convert the `text` in markdown
+syntax to HTML.
+
 ### Footnotes
 
 GitBook supports a simple syntax for such footnotes. Footnotes are relative to each pages.
@@ -228,6 +236,10 @@ Text prior to footnote reference.[^2]
 
 [^2]: Comment to include in footnote.
 ```
+
+Text prior to footnote reference.[^2]
+
+
 
 ### HTML
 
@@ -263,3 +275,10 @@ You can tell GitBook to ignore (or escape) Markdown formatting by using `\` befo
 ```
 Let's rename \*our-new-project\* to \*our-old-project\*.
 ```
+
+
+
+
+[^2]: Comment to include in footnote.
+
+
