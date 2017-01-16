@@ -1,7 +1,7 @@
 ## Estilos
 
 
-You can specify CSS files to be included in your book's website or PDF builds by creating files:
+You can specify [CSS files](https://gitbookio.gitbooks.io/documentation/content/styling/book.html) to be included in your book's website or PDF builds by creating files:
 
 - **styles/website.css**: will apply only to the website
 - **styles/pdf.css**: will apply only to the PDF
