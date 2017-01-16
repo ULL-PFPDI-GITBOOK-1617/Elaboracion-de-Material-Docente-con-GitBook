@@ -63,9 +63,4 @@ El libro con la documentación se divide en las siguientes partes:
 <answer correct>To write and publish beautiful books</answer>
 <explanation>GitBook.com lets you write, publish and manage your books online as a service.</explanation>
 </question>
-<question>
-<p>Is it quiz?</p>
-<answer correct>Yes</answer>
-<answer>No</answer>
-</question>
 </quiz>
