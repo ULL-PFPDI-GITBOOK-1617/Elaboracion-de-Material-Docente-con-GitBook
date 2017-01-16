@@ -8,6 +8,6 @@
 #### Transferir un repo en GitBook a GitHub
 * [How can I transfer my content to GitHub?](https://help.gitbook.com/github/how-can-i-export-to-repo.html)
 
-#### Desplegando un libro en GitHub usando git
+#### Desplegando un libro en GitHub usando git y GitHub
 * {% youtube %}https://youtu.be/Lcz69R1FDRA{% endyoutube %}
 
