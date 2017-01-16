@@ -12,7 +12,7 @@ Es posible [traducir desde Markdown](#pandoc) a múltiples formatos
 ## Crear una cuenta en GitBook
 * [Crear una cuenta en GitBook](https://www.gitbook.com/join)
 
-## Pandoc {{#pandoc}}
+## Pandoc {#pandoc}
 
 * [Página de Pandoc](http://pandoc.org/)
 * [Try pandoc](https://pandoc.org/try/)
