@@ -24,7 +24,7 @@ Branching also generally implies the ability to later merge or integrate changes
 
 ![Mezclando la rama juan en la rama master](assets/merge.png)
 
-![Mezclando la rama juan en la rama master](assets/removebranchaftermerge.png)
+![Suprimir la rama juan después de la mezcla?](assets/removebranchaftermerge.png)
 
 
 
