@@ -16,11 +16,6 @@ To create a heading, add one to six `#` symbols before your heading text. The nu
 ###### This is an <h6> tag
 ```
 
-> # This is an &lt;h1&gt; tag
-> ## This is an &lt;h2&gt; tag
-> ###### This is an &lt;h6&gt; tag
-      
-&nbsp;      
 ##### Header ID
 GitBook supports a nice way for explicitly setting the header ID. If you follow the header text with an opening curly bracket (separated from the text with a least one space), a hash, the ID and a closing curly bracket, the ID is set on the header. If you use the trailing hash feature of atx style headers, the header ID has to go after the trailing hashes. For example:
 
@@ -111,7 +106,7 @@ Ordered lists use numbers followed by periods:
    * Item 3b
 
 
-### Links {#links}
+### Links {#linkings}
 
 Markdown supports two style of links: inline and reference.
 
