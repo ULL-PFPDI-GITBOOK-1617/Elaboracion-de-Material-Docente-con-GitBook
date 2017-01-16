@@ -4,6 +4,15 @@ Markdown es un lenguaje de marcado ligero creado por John Gruber que trata de co
 
 Es posible [traducir desde Markdown](#pandoc) a múltiples formatos 
 
+## Historia
+
+John Gruber creó el lenguaje Markdown en 2004, con una ayuda importante de [Aaron Swartz] en la sintaxis. Gruber tenía la meta de hacer que la gente "pudiera escribir usando un formato de texto plano fácil-de-leer y fácil-de-escribir, y con la posibilidad de poder convertir su documento en XHTML (o HTML) válido”.
+
+La clave del diseño de Markdown es la facilidad de su lectura –que hace que el lenguaje sea fácilmente interpretado, sin lucir como si hubiera sido marcado con etiquetas o instrucciones de estilo, como [RTF] o [HTML], los cuales tienen etiquetas que hacen mas difícil su lectura e interpretación. 
+
+Una cantidad de sitios como [GitHub], [Reddit], [Diaspora], [Stack Exchange], [OpenStreetMap], y [SourceForge] usa algunas variantes de Markdown para facilitar la discusión entre usuarios. Un dialecto de Markdown es también usada por el [sistema de mensajería instantánea Slack].
+
+
 
 ## Guía Docente
 
