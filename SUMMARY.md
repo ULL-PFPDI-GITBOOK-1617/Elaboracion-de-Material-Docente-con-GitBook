@@ -31,6 +31,7 @@
 * [Idiomas](idiomas.md)
 * [Plugins Interesantes](plugins-interesantes.md)
 * [GitBook y GitHub](gitbook-y-github.md)
+* [Personalizando Estilos](styles.md)
 
 ## Colaboración y Control de Versiones
 * [Colaboracion y Control de Versiones](colaboracion.md)
