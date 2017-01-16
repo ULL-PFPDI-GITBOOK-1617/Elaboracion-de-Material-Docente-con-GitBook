@@ -21,9 +21,6 @@ La clave del diseño de Markdown es la facilidad de su lectura –que hace que e
 Una cantidad de sitios usa algunas variantes de Markdown para facilitar la discusión entre usuarios. 
 
 
-
-
-
 ## Crear  cuentas en GitHub y GitBook
 
 * [Crear una cuenta en GitHub](https://github.com/join?source=header-home)
