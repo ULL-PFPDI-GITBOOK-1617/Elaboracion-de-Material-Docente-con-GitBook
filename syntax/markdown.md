@@ -20,7 +20,7 @@ To create a heading, add one to six `#` symbols before your heading text. The nu
 > ## This is an &lt;h2&gt; tag
 > ###### This is an &lt;h6&gt; tag
       
-       
+&nbsp;      
 ##### Header ID
 GitBook supports a nice way for explicitly setting the header ID. If you follow the header text with an opening curly bracket (separated from the text with a least one space), a hash, the ID and a closing curly bracket, the ID is set on the header. If you use the trailing hash feature of atx style headers, the header ID has to go after the trailing hashes. For example:
 
@@ -33,7 +33,8 @@ Hello {#id}
 # Hello # {#id}
 ```
 
-### Párrafos y Nuevas líneas {#parrafos}
+
+### Párrafos y saltos de líneas {#parrafos}
 
 A paragraph is simply one or more consecutive lines of text, separated by one or more blank lines. (A blank line is any line that looks like a blank line — a line containing nothing but spaces or tabs is considered blank.) Normal paragraphs should not be indented with spaces or tabs.
 
@@ -42,6 +43,10 @@ Here's a line for us to start with.
 
 This line is separated from the one above by two newlines, so it will be a *separate paragraph*.
 ```
+>Here's a line for us to start with.
+
+>This line is separated from the one above by two newlines, so it will be a *separate paragraph*.
+
 
 ### Emphasis {#emphasis}
 
@@ -56,6 +61,16 @@ __This will also be bold__
 
 _You **can** combine them_
 ```
+
+>*This text will be italic*
+>_This will also be italic_
+>
+>**This text will be bold**
+>__This will also be bold__
+>
+>~~This text will be crossed out.~~
+>
+>_You **can** combine them_
 
 ### Lists {#lists}
 
@@ -72,6 +87,11 @@ Unordered lists use asterisks, pluses, and hyphens — interchangably — as lis
   * Item 2b
 ```
 
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
+
 ##### Ordered
 
 Ordered lists use numbers followed by periods:
@@ -84,6 +104,13 @@ Ordered lists use numbers followed by periods:
    * Item 3b
 ```
 
+1. Item 1
+2. Item 2
+3. Item 3
+   * Item 3a
+   * Item 3b
+
+
 ### Links {#links}
 
 Markdown supports two style of links: inline and reference.
@@ -95,6 +122,14 @@ This is [an example](http://example.com/ "Title") inline link with a title.
 
 [This link](http://example.net/) has no title attribute.
 ```
+
+>This is [an example](http://example.com/ "Title") inline link with a title.
+>
+>[This link](http://example.net/) has no title attribute.
+
+
+
+
 
 Links can point to relative paths, anchors or absolute urls.
 
@@ -118,8 +153,9 @@ Then, anywhere in the document, you define your link label like this, on a line 
 Images can be created in a similar way than links: just use an exclamation mark before the square brackets. The link text will become the alternative text of the image and the link URL specifies the image source:
 
 ```markdown
-An image: ![gras](img/image.jpg)
+An image: ![GitBook](/img/image.jpg)
 ```
+![GitBook](/img/image.jpg)
 
 ### Blockquotes {#blockquotes}
 
