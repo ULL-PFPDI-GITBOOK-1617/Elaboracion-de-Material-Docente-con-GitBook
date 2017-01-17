@@ -13,7 +13,8 @@
         "jazer",
         "autocover",
         "asciitree",
-        "mermaid"
+        "mermaid",
+        "katex"
     ],
     "pluginsConfig": {
         "page-toc-button": {
