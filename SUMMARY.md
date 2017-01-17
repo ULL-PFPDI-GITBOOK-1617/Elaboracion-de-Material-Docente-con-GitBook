@@ -43,6 +43,9 @@
     * [Exercises](exercises.md)
     * [Disqus](disqus.md)
     * [Asciitree](asciitree.md)
+    * [Mermaid](mermaid.md)
+    * [Katex](katex.md)
+    * [Page-toc](page-toc.md)
 
 ## Colaboración y Control de Versiones
 * [GitBook y GitHub](gitbook-y-github.md)

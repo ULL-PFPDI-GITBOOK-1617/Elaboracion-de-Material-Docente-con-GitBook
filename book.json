@@ -12,7 +12,8 @@
         "exercises",
         "jazer",
         "autocover",
-        "asciitree"
+        "asciitree",
+        "mermaid"
     ],
     "pluginsConfig": {
         "page-toc-button": {
