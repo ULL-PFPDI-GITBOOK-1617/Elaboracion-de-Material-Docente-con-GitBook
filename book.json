@@ -10,10 +10,10 @@
         "copy-code-button",
         "-emphasize",
         "exercises",
-        "jazer",
-        "autocover",
-        "asciitree",
-        "mermaid",
+        "-jazer",
+        "-autocover",
+        "-asciitree",
+        "-mermaid",
         "katex"
     ],
     "pluginsConfig": {
