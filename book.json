@@ -11,7 +11,8 @@
         "emphasize",
         "exercises",
         "jazer",
-        "autocover"
+        "autocover",
+        "asciitree"
     ],
     "pluginsConfig": {
         "page-toc-button": {
