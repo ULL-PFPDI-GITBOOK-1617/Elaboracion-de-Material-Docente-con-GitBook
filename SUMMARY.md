@@ -42,7 +42,7 @@
     * [Exercises](exercises.md)
     * [Disqus](disqus.md)
 <!--    * [Asciitree](asciitree.md) -->
-<!--   * [Mermaid](mermaid.md) -->
+    * [Mermaid](mermaid.md) 
     * [Katex](katex.md)
     * [Page-toc](page-toc.md)
     
