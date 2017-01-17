@@ -38,7 +38,7 @@
 * [Plugins Interesantes](plugins-interesantes.md)
     * [Youtube](youtube.md)
     * [Copy code button](copy-code-button.md)
-    * [Autocover](autocover.md)
+<!--    * [Autocover](autocover.md) -->
     * [Exercises](exercises.md)
     * [Disqus](disqus.md)
 <!--    * [Asciitree](asciitree.md) -->
