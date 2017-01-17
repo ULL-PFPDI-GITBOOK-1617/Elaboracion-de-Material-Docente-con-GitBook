@@ -36,10 +36,8 @@
 * [Glosario](glosario.md)
 * [Idiomas](idiomas.md)
 * [Plugins Interesantes](plugins-interesantes.md)
-<!--
     * [Youtube](youtube.md)
     * [Copy code button](copy-code-button.md)
-    * [Emphasize](emphasize.md)
     * [Autocover](autocover.md)
     * [Exercises](exercises.md)
     * [Disqus](disqus.md)
@@ -47,7 +45,7 @@
     * [Mermaid](mermaid.md)
     * [Katex](katex.md)
     * [Page-toc](page-toc.md)
--->
+<!-- * [Emphasize](emphasize.md)-->
 
 ## Colaboración y Control de Versiones
 * [GitBook y GitHub](gitbook-y-github.md)
