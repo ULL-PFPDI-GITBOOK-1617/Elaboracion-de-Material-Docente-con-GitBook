@@ -8,7 +8,7 @@
         "disqus",
         "quiz",
         "copy-code-button",
-        "emphasize",
+        "-emphasize",
         "exercises",
         "jazer",
         "autocover",
