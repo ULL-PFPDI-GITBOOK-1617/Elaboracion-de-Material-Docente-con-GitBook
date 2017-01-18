@@ -32,5 +32,5 @@ En la versión desktop del editor:
 
 ### Descargando desde el repositorio en la nube a nuestro ordenador
 
-![](/assets/pullpush.png)
+![Menu de Control de Versiones del libro](/assets/pullpush.png)
 
