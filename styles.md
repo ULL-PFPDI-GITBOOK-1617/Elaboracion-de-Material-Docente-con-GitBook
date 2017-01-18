@@ -24,7 +24,7 @@ Por ejemplo, en el repositorio en GitHub de este mismo libro [Elaboración de Ma
 ver en el directorio `styles` 
 el contenido del fichero [website.css](https://github.com/ULL-PFPDI-GITBOOK-1617/Elaboracion-de-Material-Docente-con-GitBook/blob/master/styles/website.css).
 
-El estilo en este caso está para configurar los *captions* de las figuras, lo que se hace de acuerdo a als instrucciones del plugin [image-captions](https://www.npmjs.com/package/gitbook-plugin-image-captions).
+El estilo en este caso está para configurar los *captions* de las figuras, lo que se hace de acuerdo a las instrucciones del plugin [image-captions](https://www.npmjs.com/package/gitbook-plugin-image-captions).
 
 The plugin [image-captions](https://www.npmjs.com/package/gitbook-plugin-image-captions) adds nice generated captions to your book images. This plugin converts `alt` or `title` attributes of your images into the captions. Works on both the GitBook website and your own generated book (pdf, mobi).
 
