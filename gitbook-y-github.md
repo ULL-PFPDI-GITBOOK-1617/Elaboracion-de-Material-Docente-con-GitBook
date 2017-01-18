@@ -16,15 +16,16 @@ Se llama **control de versiones** a la gestión de los diversos cambios que se r
 ### Transferir un repo en GitBook a GitHub
 * [How can I transfer my content to GitHub?](https://help.gitbook.com/github/how-can-i-export-to-repo.html)
 
-### GitHub Desktop: Guías
-
-* [Guías de GitHub Desktop](https://help.github.com/desktop/guides/)
-
 ### Issues / Incidencias
 
 Issues are a great way to keep track of tasks, enhancements, and bugs for your projects. They’re kind of like email—except they can be shared and discussed with the rest of your team. 
 
 * [Mastering Issues](https://guides.github.com/features/issues/)
+
+### GitHub Desktop: Guías
+
+* [Guías de GitHub Desktop](https://help.github.com/desktop/guides/)
+
 
 ### Desplegando un libro en GitHub usando git y GitHub
 * {% youtube %}https://youtu.be/Lcz69R1FDRA{% endyoutube %}
