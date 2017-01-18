@@ -1,4 +1,5 @@
 ### Crear una cuenta en GitHub
+Git (pronunciado "guit" ) es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia y la confiabilidad del mantenimiento de versiones de aplicaciones cuando éstas tienen un gran número de archivos de código fuente.
 
 GitHub es una plataforma de desarrollo colaborativo en la nube para alojar proyectos utilizando el sistema de control de versiones Git.
 
