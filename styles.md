@@ -48,6 +48,6 @@ The plugin [image-captions](https://www.npmjs.com/package/gitbook-plugin-image-c
 
 ### Less y Sass
 
-Como CSS, [Less](http://lesscss.org/) y [Sass](http://sass-lang.com/) son lenguajes para la descripción de como debe mostrarse el HTML generado.
+Como CSS, [Less](http://lesscss.org/) y [Sass](http://sass-lang.com/) son lenguajes para la descripción de como debe mostrarse una página HTML.
  
 Plugins exist to enable [Less](https://plugins.gitbook.com/plugin/styles-less) or [Sass](https://plugins.gitbook.com/plugin/styles-sass) support.
