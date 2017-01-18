@@ -3,4 +3,4 @@
 * [Organización GitHub ULL-PFPDI-GITBOOK-161](https://github.com/orgs/ULL-PFPDI-GITBOOK-1617)
 * [Classroom para este curso ULL-PFPDI-GITBOOK-161](https://classroom.github.com/classrooms/24248551-ull-pfpdi-gitbook-1617)
  
-* [GitHub Projects](projects/README.md)
+* [GitHub Projects](githubprojects.md)
