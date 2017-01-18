@@ -36,3 +36,8 @@ En la versión desktop del editor:
 
 * Revision History: 
 ![Historia de Revisiones](/assets/commits.png)
+* Create Branch: Creamos una rama a partir de otra
+* Remove Branch: Eliminar la rama
+* Merge Branches: Fusionar los cambios en una rama 
+en otra rama que recibe los cambios
+* Sync: Asumir los cambios externos al GitBook Desktop editor en los directorios del libro 
