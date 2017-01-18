@@ -29,7 +29,7 @@ El estilo en este caso está para configurar los *captions* de las figuras, lo q
 The plugin [image-captions](https://www.npmjs.com/package/gitbook-plugin-image-captions) adds nice generated captions to your book images. This plugin converts `alt` or `title` attributes of your images into the captions. Works on both the GitBook website and your own generated book (pdf, mobi).
 
 - [Ejemplo desplegado en GitBook](https://tdvorak.gitbooks.io/test-book/content/phetchaburi.html)
-- [ejemplo desplegado en GitHub](https://crguezl.github.io/tdvorak-image-captions-plugin-test/)
+- [Ejemplo desplegado en GitHub](https://crguezl.github.io/tdvorak-image-captions-plugin-test/)
 - [Fuente del ejemplo](https://github.com/crguezl/tdvorak-image-captions-plugin-test)
 
 Plugins exist to enable [Less](https://plugins.gitbook.com/plugin/styles-less) or [Sass](https://plugins.gitbook.com/plugin/styles-sass) support.
