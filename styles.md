@@ -20,5 +20,9 @@ These paths can be changed in the `book.json` configuration, for example to use 
     }
 }
 ```
+Por ejemplo en el repositorio de este mismo libro [Elaboración de Material Docente con Gitbook](https://github.com/ULL-PFPDI-GITBOOK-1617/Elaboracion-de-Material-Docente-con-GitBook/) puede 
+ver en el directorio `styles` 
+el contenido del fichero [website.css](https://github.com/ULL-PFPDI-GITBOOK-1617/Elaboracion-de-Material-Docente-con-GitBook/blob/master/styles/website.css).
+
 
 Plugins exist to enable [Less](https://plugins.gitbook.com/plugin/styles-less) or [Sass](https://plugins.gitbook.com/plugin/styles-sass) support.
