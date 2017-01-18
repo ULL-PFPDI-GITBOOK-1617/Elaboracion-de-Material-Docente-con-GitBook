@@ -54,7 +54,7 @@
 
 ## Estilos
 * [Dando nuestro propio estilo](styles.md)
-* [Véase en el repo de este libro el directorio styles](https://github.com/ULL-PFPDI-GITBOOK-1617/Elaboracion-de-Material-Docente-con-GitBook)
+
 
 ## Configuración
 * [Configuration](config.md)
