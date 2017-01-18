@@ -40,6 +40,24 @@ el contenido del fichero [website.css](https://github.com/ULL-PFPDI-GITBOOK-1617
 
 El estilo en este caso está para configurar los *captions* de las figuras, lo que se hace de acuerdo a las instrucciones del plugin [image-captions](https://www.npmjs.com/package/gitbook-plugin-image-captions).
 
+```css
+/* CSS for website */
+figure {
+    /* margin: 1.5em 0px;*/
+    margin: auto;
+    border: 3px solid #73AD21;
+    padding:10px 0;
+}
+ 
+figcaption {
+    clear: left;
+    margin: 0.75em 0px;
+    text-align: center;
+    font-style: italic;
+    line-height: 1.5em;
+}
+```
+
 The plugin [image-captions](https://www.npmjs.com/package/gitbook-plugin-image-captions) adds nice generated captions to your book images. This plugin converts `alt` or `title` attributes of your images into the captions. Works on both the GitBook website and your own generated book (pdf, mobi).
 
 - [Ejemplo desplegado en GitBook](https://tdvorak.gitbooks.io/test-book/content/phetchaburi.html)
