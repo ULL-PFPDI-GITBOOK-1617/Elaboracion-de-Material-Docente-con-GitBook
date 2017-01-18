@@ -30,7 +30,7 @@ Branching also generally implies the ability to later merge or integrate changes
 
 En la versión desktop del editor:
 
-### Descargando desde el repositorio en la nube a nuestro ordenador
+### Sincronizando entre la nube y nuestro ordenador
 
 ![Menu de Control de Versiones del libro](/assets/pullpush.png)
 
