@@ -26,5 +26,11 @@ Branching also generally implies the ability to later merge or integrate changes
 
 ![¿Suprimir la rama juan después de la mezcla?](assets/removebranchaftermerge.png)
 
+## Desktop Editor
 
+En la versión desktop del editor:
+
+### Descargando desde el repositorio en la nube a nuestro ordenador
+
+![](/assets/pullpush.png)
 
