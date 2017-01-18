@@ -52,6 +52,11 @@
 * [GitBook y GitHub](gitbook-y-github.md)
 * [Colaboracion y Control de Versiones](colaboracion.md)
 
+## GitHub y la Enseñanza
+
+* [GitHub Education](githubeducation.md)
+* [Classroom](classroom.md)
+
 ## Estilos
 * [Dando nuestro propio estilo](styles.md)
 
