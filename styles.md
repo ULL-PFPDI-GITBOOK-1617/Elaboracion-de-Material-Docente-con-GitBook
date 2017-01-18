@@ -1,6 +1,7 @@
 ## Estilos
 
 ### Como Personalizar el Estilo de Nuestro Libro
+
 You can specify [CSS files](https://gitbookio.gitbooks.io/documentation/content/styling/book.html) to be included in your book's website or PDF builds by creating files:
 
 - **styles/website.css**: will apply only to the website
@@ -13,6 +14,8 @@ You can specify [CSS files](https://gitbookio.gitbooks.io/documentation/content/
 stands for Cascading Style Sheets.
 
 CSS is a language that describes how HTML elements are to be displayed on screen, paper, or in other media.
+
+See [http://www.w3schools.com](http://www.w3schools.com/css/css_syntax.asp) to know a little about the CSS syntax.
 
 ### Changing the default path to style files
 
