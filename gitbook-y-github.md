@@ -21,7 +21,6 @@ Se llama **control de versiones** a la gestión de los diversos cambios que se r
 * [Guías de GitHub Desktop](https://help.github.com/desktop/guides/)
 
 
-
 #### Desplegando un libro en GitHub usando git y GitHub
 * {% youtube %}https://youtu.be/Lcz69R1FDRA{% endyoutube %}
 
