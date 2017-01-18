@@ -7,3 +7,7 @@ Debe especificarse un archivo llamado `LANGS.md` en el directorio principal del 
 * [French](fr/)
 * [Español](es/)
 ``` 
+
+Cada uno de estos subdirectorios debe tener su propio archivo `README.md`, un `SUMMARY.md`, `GLOSSARY.md` así como cada página traducida al idioma correspondiente. 
+
+Cada idioma puede tener una portada diferente.
