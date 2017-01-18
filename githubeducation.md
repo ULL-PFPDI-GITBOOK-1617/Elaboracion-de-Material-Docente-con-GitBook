@@ -10,4 +10,6 @@ Organizations simplify management of group-owned repositories (for example: your
  
 ## GitHub Projects
 
+Projects on GitHub help you organize and prioritize your work. 
+
 * [GitHub Projects](githubprojects.md)
