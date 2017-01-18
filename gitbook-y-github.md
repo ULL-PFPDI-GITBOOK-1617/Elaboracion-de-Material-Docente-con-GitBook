@@ -3,7 +3,7 @@
 
 **GitHub** es una plataforma de desarrollo colaborativo en la nube para alojar proyectos utilizando el sistema de control de versiones Git.
 
-* [Crear una cuetna en GitHub](https://github.com/join?source=header-home)
+* [Crear una cuenta en GitHub](https://github.com/join?source=header-home)
 
 ### GitHub Desktop: Guías
 
