@@ -34,3 +34,4 @@ En la versión desktop del editor:
 
 ![Menu de Control de Versiones del libro](/assets/pullpush.png)
 
+* Revision History: 
