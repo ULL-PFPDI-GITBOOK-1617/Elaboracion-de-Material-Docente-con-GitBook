@@ -34,8 +34,8 @@ En la versión desktop del editor:
 
 ![Menu de Control de Versiones del libro](/assets/pullpush.png)
 
-* Revision History: 
-![Historia de Revisiones](/assets/commits.png)
+* **Revision History**: Muestra el histórico de versiones guardadas
+  - ![Historia de Revisiones](/assets/commits.png)
 * **Create Branch**: Creamos una rama a partir de otra
 * **Remove Branch**: Eliminar la rama
 * **Merge Branches**: Fusionar los cambios en una rama 
