@@ -28,7 +28,7 @@ Branching also generally implies the ability to later merge or integrate changes
 
 ## Desktop Editor
 
-En la versión desktop del editor:
+En la versión desktop del editor tenemos varias formas de sincronizar.
 
 ### Sincronizando entre la nube y nuestro ordenador
 
