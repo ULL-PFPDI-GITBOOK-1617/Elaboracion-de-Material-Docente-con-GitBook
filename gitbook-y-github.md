@@ -1,7 +1,7 @@
 ### Crear una cuenta en GitHub
 **Git*  es un *software de control de versiones* diseñado por Linus Torvalds el autor del Kernel de Linux.
 
-GitHub es una plataforma de desarrollo colaborativo en la nube para alojar proyectos utilizando el sistema de control de versiones Git.
+**GitHub** es una plataforma de desarrollo colaborativo en la nube para alojar proyectos utilizando el sistema de control de versiones Git.
 
 * [Crear una cuetna en GitHub](https://github.com/join?source=header-home)
 
