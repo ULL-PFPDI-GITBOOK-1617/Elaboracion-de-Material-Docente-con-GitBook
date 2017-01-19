@@ -37,29 +37,23 @@
 * [Idiomas](idiomas.md)
 * [Plugins Interesantes](plugins-interesantes.md)
     * [Youtube](youtube.md)
-    * [Copy code button](copy-code-button.md)
-<!--    * [Autocover](autocover.md) -->
-    * [Exercises](exercises.md)
+    * [Quiz](quiz.md)
+    * [Mermaid](mermaid.md)
     * [Disqus](disqus.md)
-    * [Asciitree](asciitree.md) 
-<!--   * [Mermaid](mermaid.md) -->
-    * [Katex](katex.md)
+    * [Asciitree](asciitree.md)
+    * [Copy code button](copy-code-button.md)
     * [Page-toc](page-toc.md)
-    
-<!-- * [Emphasize](emphasize.md)-->
 
 ## Colaboración y Control de Versiones
 * [GitBook y GitHub](gitbook-y-github.md)
 * [Colaboracion y Control de Versiones](colaboracion.md)
 
 ## GitHub y la Enseñanza
-
 * [GitHub Education](githubeducation.md)
 * [Classroom](classroom.md)
 
 ## Estilos
 * [Dando nuestro propio estilo](styles.md)
-
 
 ## Configuración
 * [Configuration](config.md)

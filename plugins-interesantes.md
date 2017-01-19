@@ -1,10 +1,9 @@
-## Lista de Plugins Interesantes
+## Plugins
 
-En este [libro GitBook](https://casianorodriguezleon.gitbooks.io/gitbookexample) suelo hacer pruebas sobre diversos plugins y resumir en él mi experiencia.
-El fuente del libro puede descargarse desde GitHub (`git@github.com:crguezl/gitbookexample.git`). Pueden encontrarlo en  esta dirección: 
-[https://github.com/crguezl/gitbookexample](https://github.com/crguezl/gitbookexample).
+Un plug-in es un programa que incrementa o aumenta las funcionalidades de un programa principal. Por lo general es producido por una compañía diferente a la que produjo el primer programa. 
 
-### Algunos plugins que he probado
+
+### Lista de plugins interesantes
 
 * Que me funcionan
   * [latex](https://casianorodriguezleon.gitbooks.io/gitbookexample/content/latex.html)
