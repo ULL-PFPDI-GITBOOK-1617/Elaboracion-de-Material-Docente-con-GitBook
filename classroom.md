@@ -11,7 +11,7 @@ using unique invitation URLs.
 * Teachers and teaching assistants can
 browse submissions by assignment.
 
-###Instrucciones para el Estudiante para las tareas asignadas via GitHub ClassRoom
+###Instrucciones para el Estudiante para las tareas asignadas via GitHub ClassRoom {#classroomestudiante}
 
 * Por supuesto todos los estudiantes deben tener una cuenta en GitHub
 * Para cada práctica el profesor les dará un enlace a GitHub Classroom: Students gain access to assignments using unique invitation URLs
