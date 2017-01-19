@@ -18,19 +18,20 @@ Se llama **control de versiones** a la gestión de los diversos cambios que se r
 
 ### Issues / Incidencias {#issues}
 
-Issues are a great way to keep track of tasks, enhancements, and bugs for your projects. They’re kind of like email—except they can be shared and discussed with the rest of your team. 
+Issues are a great way to keep track of tasks, enhancements, and bugs for your projects. 
+They’re kind of like email—except they can be shared and discussed with the rest of your team. 
 
 * [Mastering Issues](https://guides.github.com/features/issues/)
 
 ### Instalar GitBook en una Máquina Windows
 
 * Deberá instalar [Git for Windows](https://git-scm.com/download/win)
-* Y seguir stas instrucciones: [GitBook Setup](https://toolchain.gitbook.com/setup.html)
+* Y seguir estas instrucciones: [GitBook Setup](https://toolchain.gitbook.com/setup.html)
 
 ### GitHub Desktop: Instalación y Guías
 
-* Instalar [GitHub Desktop](https://desktop.github.com/)
-* [Guías de GitHub Desktop](https://help.github.com/desktop/guides/)
+* Puede instalar una interfaz gráfica para GitHub denominada: [GitHub Desktop](https://desktop.github.com/)
+* [Guías para aprender a usar GitHub Desktop](https://help.github.com/desktop/guides/)
 
 
 ### Desplegando un libro en GitHub usando git y GitHub
