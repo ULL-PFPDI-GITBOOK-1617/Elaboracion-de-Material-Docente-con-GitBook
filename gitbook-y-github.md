@@ -29,6 +29,7 @@ Issues are a great way to keep track of tasks, enhancements, and bugs for your p
 
 ### GitHub Desktop: Guías
 
+* Instalar [GitHub Desktop](https://desktop.github.com/)
 * [Guías de GitHub Desktop](https://help.github.com/desktop/guides/)
 
 
