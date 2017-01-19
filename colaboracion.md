@@ -51,6 +51,7 @@ en otra rama que recibe los cambios
   * [Repositorio GitHub con los contenidos del Libro](https://github.com/ULL-ESIT-SYTW-1617/presentaciones-todos)
   * [Issues/Incidencias](https://github.com/ULL-ESIT-SYTW-1617/presentaciones-todos/issues?q=is%3Aissue+is%3Aclosed) del proyecto
   * [Contributors/Personas](https://github.com/ULL-ESIT-SYTW-1617/presentaciones-todos/graphs/contributors)
+  * [Actividad de  commits/Guardados](https://github.com/ULL-ESIT-SYTW-1617/presentaciones-todos/graphs/commit-activity)
   
 ### Issues / Incidencias {#issues}
   * [Ejemplo de Proyecto asociado al libro](https://github.com/ULL-ESIT-SYTW-1617/presentaciones-todos/projects/1)
