@@ -59,7 +59,8 @@ They’re kind of like email—except they can be shared and discussed with the 
 
 ### Ejemplo de Colaboración usando GitHub y GitBook
 
-Este es un ejemplo de colaboración desarrollado por los alumnos de la asignatura [Sistemas y Tecnologías Web](https://campusvirtual.ull.es/1617/course/view.php?id=1175): 
+Este es un ejemplo de colaboración desarrollado por los alumnos de la asignatura [Sistemas y Tecnologías Web](https://campusvirtual.ull.es/1617/course/view.php?id=1175)
+del Grado de Informática en el curso 2015/2016: 
 
 * [Libro con las Presentaciones de los Alumnos de SYTW](https://ull-esit-sytw-1617.github.io/presentaciones-todos/)
   * [Repositorio GitHub con los contenidos del Libro](https://github.com/ULL-ESIT-SYTW-1617/presentaciones-todos)
