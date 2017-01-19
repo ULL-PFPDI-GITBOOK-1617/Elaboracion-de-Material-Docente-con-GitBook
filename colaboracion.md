@@ -48,9 +48,11 @@ en otra rama que recibe los cambios
 ### Ejemplo de Colaboración
 
 * [Libro con las Presentaciones de los Alumnos de SYTW](https://ull-esit-sytw-1617.github.io/presentaciones-todos/)
-* [Repositorio GitHub con los contenidos del Libro](https://github.com/ULL-ESIT-SYTW-1617/presentaciones-todos)
-
+  * [Repositorio GitHub con los contenidos del Libro](https://github.com/ULL-ESIT-SYTW-1617/presentaciones-todos)
+  * [Issues/Incidencias](https://github.com/ULL-ESIT-SYTW-1617/presentaciones-todos/issues?q=is%3Aissue+is%3Aclosed) del proyecto
+  * [Contributors/Personas](https://github.com/ULL-ESIT-SYTW-1617/presentaciones-todos/graphs/contributors)
 ### Issues / Incidencias {#issues}
+  * [Ejemplo de Proyecto asociado al libro](https://github.com/ULL-ESIT-SYTW-1617/presentaciones-todos/projects/1)
 
 Issues are a great way to keep track of tasks, enhancements, and bugs for your projects. 
 They’re kind of like email—except they can be shared and discussed with the rest of your team. 
