@@ -44,6 +44,11 @@ en otra rama que recibe los cambios
 * **Push**: Mandar los cambios guardados a la nube
 * **Pull**: Traer cambios de la nube a tu ordenador
 
+
+### Ejemplo de Colaboración
+
+* [Libro con las Presentaciones de los Alumnos de SYTW](https://ull-esit-sytw-1617.github.io/presentaciones-todos/)
+
 ### Issues / Incidencias {#issues}
 
 Issues are a great way to keep track of tasks, enhancements, and bugs for your projects. 
