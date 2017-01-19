@@ -26,7 +26,7 @@ Branching also generally implies the ability to later merge or integrate changes
 
 ![¿Suprimir la rama juan después de la mezcla?](assets/removebranchaftermerge.png)
 
-## Desktop Editor
+### Desktop Editor
 
 En la versión desktop del editor tenemos varias formas de sincronizar.
 
