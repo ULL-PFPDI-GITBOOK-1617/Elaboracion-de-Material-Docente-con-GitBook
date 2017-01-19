@@ -17,7 +17,7 @@ browse submissions by assignment.
 * Para cada práctica el profesor les dará un enlace a GitHub Classroom: Students gain access to assignments using unique invitation URLs
 * La primera vez que acceden a ClassRoom les saldrá una pantalla como esta:
 
-![Autorice la aplicación ClassRoom a acceder a su cuenta de GitHub](/assets/classroomfirsttime.png)
+![Autorice la aplicación ClassRoom a acceder a su cuenta de GitHub](assets/classroomfirsttime.png)
 
   deberá dar autorización a la aplicación ClassRoom para que acceda a sus repositorios de GitHub
 * Los alumnos que acceden y *aceptan* el enlace dado por el profesor pasan a ser miembros de la organización de la asignatura (cuyo nombre en nuestro caso suele ser `ULL-ESIT-ACRONIMOTITULACION-ACRONIMODELAASIGNATURA`, por ejemplo `ULL-ESIT-GRADOII-PL`)
