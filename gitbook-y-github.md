@@ -19,11 +19,12 @@ Se llama **control de versiones** a la gestión de los diversos cambios que se r
 Tener el repositorio en GitHub presenta múltiples ventajas:
 
 * Podemos **viajar en el tiempo** en nuestor proyecto
-* Podemos comunicarnos con el gestor de incidencias
-* Podemos crear organizaciones
+* Podemos comunicarnos con los otros autores via el gestor de incidencias
+* Podemos crear organizaciones para gestionar nuestras clases
 * Podemos tener repositorios privados (vía solicitud) para uso académico
 * Podemos planificar la secuenciación y reparto de tareas para un libro vía los **projects** asociados con un repositorio
 * Podemos llevar un control exhaustivo de quien ha trabajado en que y cuando (grafos, blame, etc.)
+
 
 
 
