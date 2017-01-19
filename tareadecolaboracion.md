@@ -7,7 +7,7 @@ El objetivo de este ejercicio es escribir un libro entre dos o tres colaboradore
 * Creen el libro en GitBook y enlacenlo con el repo de GitHub
   - Asegúrese que GitBook tiene los permisos para acceder a su repo de GitHub
   - ![Settings> Integration and Services]
-(/assets/colaboracion/integrationsandservices.png)
+(assets/colaboracion/integrationsandservices.png)
   - [Integrations > Publishing](integrationspublishing.png)
 * Divídanse la tarea entre los miembros del equipo: para ello creen uno o varios [project](githubprojects.md) asociados al repositorio del equipo
 * Creen - a propósito - conflictos y resuelvanlos 
