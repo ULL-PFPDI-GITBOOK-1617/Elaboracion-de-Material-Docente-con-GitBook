@@ -45,6 +45,15 @@ en otra rama que recibe los cambios
 * **Pull**: Traer cambios de la nube a tu ordenador
 
 
+ 
+### Issues / Incidencias {#issues}
+  * [Ejemplo de Proyecto asociado al libro](https://github.com/ULL-ESIT-SYTW-1617/presentaciones-todos/projects/1)
+
+Issues are a great way to keep track of tasks, enhancements, and bugs for your projects. 
+They’re kind of like email—except they can be shared and discussed with the rest of your team. 
+
+* [Mastering Issues](https://guides.github.com/features/issues/)
+
 ### Ejemplo de Colaboración
 
 * [Libro con las Presentaciones de los Alumnos de SYTW](https://ull-esit-sytw-1617.github.io/presentaciones-todos/)
@@ -53,14 +62,7 @@ en otra rama que recibe los cambios
   * [Contributors/Personas](https://github.com/ULL-ESIT-SYTW-1617/presentaciones-todos/graphs/contributors)
   * [Actividad de  commits/Guardados](https://github.com/ULL-ESIT-SYTW-1617/presentaciones-todos/graphs/commit-activity)
   * [Network](https://github.com/ULL-ESIT-SYTW-1617/presentaciones-todos/network)
-  
-### Issues / Incidencias {#issues}
-  * [Ejemplo de Proyecto asociado al libro](https://github.com/ULL-ESIT-SYTW-1617/presentaciones-todos/projects/1)
 
-Issues are a great way to keep track of tasks, enhancements, and bugs for your projects. 
-They’re kind of like email—except they can be shared and discussed with the rest of your team. 
-
-* [Mastering Issues](https://guides.github.com/features/issues/)
 
 ### Instalar GitBook en una Máquina Windows
 
