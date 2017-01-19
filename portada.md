@@ -8,10 +8,12 @@ Podemos añadir dicha imagen mediante un archivo llamado `cover.jpg` o si querem
 El tamaño recomendado para el archivo `cover.jpg` es de `1800x2360` pixeles y el de `cover_small.jpg` de `200x262` pixeles
 
 
-|         | Grande    | Pequeño         |
+|  Tabla  |  Grande   |  Pequeño        |
 |---------|-----------|-----------------|
 | Archivo | cover.jpg | cover_small.jpg |
 | Tamaño  | 1800x2360 | 200x262         |
+
+
 
 Para cambiar la portada debemos ir a la pestaña de la parte superior derecha de la pantalla y seleccionar la opción _Edit Book Cover_.
 
