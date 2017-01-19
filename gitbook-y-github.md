@@ -16,6 +16,14 @@ Se llama **control de versiones** a la gestión de los diversos cambios que se r
 ### Crear un Gitbook a partir de un repositorio de Github
 * [Can I host my content on GitHub?](https://help.gitbook.com/github/can-i-host-on-github.html)
 
+Tener el repositorio en GitHub presenta múltiples ventajas:
+
+* Podemos **viajar en el tiempo** en nuestor proyecto
+* Podemos comunicarnos con el gestor de incidencias
+* Podemos crear organizaciones
+* Podemos tener repositorios privados (vía solicitud) para uso académico
+* Podemos planificar la secuenciación y reparto de tareas para un libro vía los **projects** asociados con un repositorio
+
 
 
 
