@@ -27,7 +27,7 @@ Issues are a great way to keep track of tasks, enhancements, and bugs for your p
 * Deberá instalar [Git for Windows](https://git-scm.com/download/win)
 * Y seguir stas instrucciones: [GitBook Setup](https://toolchain.gitbook.com/setup.html)
 
-### GitHub Desktop: Guías
+### GitHub Desktop: Instalación y Guías
 
 * Instalar [GitHub Desktop](https://desktop.github.com/)
 * [Guías de GitHub Desktop](https://help.github.com/desktop/guides/)
