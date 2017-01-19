@@ -26,6 +26,13 @@ Branching also generally implies the ability to later merge or integrate changes
 
 ![¿Suprimir la rama juan después de la mezcla?](assets/removebranchaftermerge.png)
 
+### Issues / Incidencias
+
+Issues are a great way to keep track of tasks, enhancements, and bugs for your projects. They’re kind of like email—except they can be shared and discussed with the rest of your team. 
+
+* [Mastering Issues](https://guides.github.com/features/issues/)
+
+
 ## Desktop Editor
 
 En la versión desktop del editor tenemos varias formas de sincronizar.
