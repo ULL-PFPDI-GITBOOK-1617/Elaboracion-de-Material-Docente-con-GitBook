@@ -51,6 +51,8 @@
 ## GitHub y la Enseñanza
 * [GitHub Education](githubeducation.md)
 * [Classroom](classroom.md)
+* [Tarea Colaborativa](tareadecolaboracion.md)
+
 
 ## Estilos
 * [Dando nuestro propio estilo](styles.md)
