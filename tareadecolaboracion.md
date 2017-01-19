@@ -13,6 +13,7 @@ El objetivo de este ejercicio es escribir un libro entre dos o tres colaboradore
   - ![La Configuración debería estar así](assets/colaboracion/estadodelaconfiguracion.png)
 * Divídanse la tarea entre los miembros del equipo: para ello creen uno o varios [project](githubprojects.md) asociados al repositorio del equipo
 * Creen - a propósito - conflictos y resuelvanlos 
+* Creen ramas  de trabajo y las mezclan/fusionan periódicamente a la rama `master`
 * Utilicen los [issues](gitbook-y-github.md#issues) de GitHub como mecanismo de comunicación
 * [Organización GitHub ULL-PFPDI-GITBOOK](https://github.com/ULL-PFPDI-GITBOOK-1617)
 
