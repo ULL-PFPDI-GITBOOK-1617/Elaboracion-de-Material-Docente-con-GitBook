@@ -42,7 +42,7 @@ browse submissions by assignment.
 
 * [Véase Teachers, manage your courses with Classroom for GitHub](https://github.com/blog/2055-teachers-manage-your-courses-with-classroom-for-github)
 * [A step-by-step guide on setting up your GitHub Organization for classroom use](https://education.github.com/guide)
-* [Request free private repositories for your classroom organization](https://education.github.com/discount_requests/new)
+* [**Request free private repositories for your classroom organization**](https://education.github.com/discount_requests/new)
 * El formato para el classroom es el mismo que el de la organización de la asignatura seguido del curso. Por ejemplo:`ULL-ESIT-GRADOII-PL-15-16`
 * La cantidad de emails que genera esta actividad es grande (issues, etc.) quiza una solución puede ser una cuenta github y una cuenta gmail por curso
 
