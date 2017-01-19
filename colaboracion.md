@@ -1,3 +1,5 @@
+## Colaboración en el Editor de GitBook
+
 ## Que es una rama
 
 Branching, in revision control and software configuration management, is the duplication of an object under revision control  so that modifications can happen in parallel along both branches.
@@ -7,15 +9,15 @@ Branching, in revision control and software configuration management, is the dup
 
 The originating branch is sometimes called the upstream branch.
 
-## Creación de ramas
+### Creación de ramas
 
 ![Creación de una rama a partir de otra](assets/crearama.png)
 
-## Commits
+### Commits
 
 ![Commits](assets/commits.png)
 
-## Mezclar ramas
+### Mezclar ramas
 
 Branching also generally implies the ability to later merge or integrate changes back onto the parent branch. 
 
@@ -26,7 +28,7 @@ Branching also generally implies the ability to later merge or integrate changes
 
 ![¿Suprimir la rama juan después de la mezcla?](assets/removebranchaftermerge.png)
 
-## Desktop Editor
+## Colaboración en el Desktop Editor
 
 En la versión desktop del editor tenemos varias formas de sincronizar.
 
@@ -46,7 +48,7 @@ en otra rama que recibe los cambios
 
 
 
-## GitHub
+## Colaboración en GitHub
  
 ### GitHub Issues / Incidencias {#issues}
   
