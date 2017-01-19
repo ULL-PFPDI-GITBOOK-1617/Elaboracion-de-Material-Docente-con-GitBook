@@ -24,4 +24,4 @@ disqus: false
 ---
 ```
 
-
+Pagina de [disqus](https://disqus.com/)
