@@ -48,6 +48,7 @@ en otra rama que recibe los cambios
 ### Ejemplo de Colaboración
 
 * [Libro con las Presentaciones de los Alumnos de SYTW](https://ull-esit-sytw-1617.github.io/presentaciones-todos/)
+* [Repositorio GitHub con los contenidos del Libro](https://github.com/ULL-ESIT-SYTW-1617/presentaciones-todos)
 
 ### Issues / Incidencias {#issues}
 
