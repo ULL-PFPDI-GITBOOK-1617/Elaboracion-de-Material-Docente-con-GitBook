@@ -20,5 +20,4 @@ Se recomienda lo siguiente a la hora de elegir una imagen:
     * Visualizar el titulo de forma correcta
     * Cualquier texto importante debe ser visible en la versión pequeña de la imagen.
     
-Mas adelante veremos que hay un plugin llamado autocover que nos facilita la labor de crear una portada.
 
