@@ -26,7 +26,7 @@ Branching also generally implies the ability to later merge or integrate changes
 
 ![¿Suprimir la rama juan después de la mezcla?](assets/removebranchaftermerge.png)
 
-### Desktop Editor
+## Desktop Editor
 
 En la versión desktop del editor tenemos varias formas de sincronizar.
 
@@ -45,8 +45,10 @@ en otra rama que recibe los cambios
 * **Pull**: Traer cambios de la nube a tu ordenador
 
 
+
+## GitHub
  
-### Issues / Incidencias {#issues}
+### GitHub Issues / Incidencias {#issues}
   * [Ejemplo de Proyecto asociado al libro](https://github.com/ULL-ESIT-SYTW-1617/presentaciones-todos/projects/1)
 
 Issues are a great way to keep track of tasks, enhancements, and bugs for your projects. 
@@ -54,7 +56,7 @@ They’re kind of like email—except they can be shared and discussed with the 
 
 * [Mastering Issues](https://guides.github.com/features/issues/)
 
-### Ejemplo de Colaboración
+### Ejemplo de Colaboración usando GitHub y GitBook
 
 * [Libro con las Presentaciones de los Alumnos de SYTW](https://ull-esit-sytw-1617.github.io/presentaciones-todos/)
   * [Repositorio GitHub con los contenidos del Libro](https://github.com/ULL-ESIT-SYTW-1617/presentaciones-todos)
@@ -64,18 +66,18 @@ They’re kind of like email—except they can be shared and discussed with the 
   * [Network](https://github.com/ULL-ESIT-SYTW-1617/presentaciones-todos/network)
 
 
-### Instalar GitBook en una Máquina Windows
+## Como Instalar GitBook en una Máquina Windows
 
 * Deberá instalar [Git for Windows](https://git-scm.com/download/win)
 * Y seguir estas instrucciones: [GitBook Setup](https://toolchain.gitbook.com/setup.html)
 
-### GitHub Desktop: Instalación y Guías
+## GitHub Desktop: Instalación y Guías
 
 * Puede instalar una interfaz gráfica para GitHub denominada: [GitHub Desktop](https://desktop.github.com/)
 * [Guías para aprender a usar GitHub Desktop](https://help.github.com/desktop/guides/)
 
 
-### Desplegando un libro en GitHub usando git y GitHub
+## Desplegando un libro en GitHub usando git y GitHub
 * {% youtube %}https://youtu.be/Lcz69R1FDRA{% endyoutube %}
 
 
