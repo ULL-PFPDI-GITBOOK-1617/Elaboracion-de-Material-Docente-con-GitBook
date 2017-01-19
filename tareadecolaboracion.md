@@ -6,6 +6,7 @@ El objetivo de este ejercicio es escribir un libro entre dos o tres colaboradore
 * [Aceptar la asignación GitHub Classroom](classroom.md##classroomestudiante) que [figura en el campus virtual](https://campusvirtual.ull.es/formacion/mod/assign/view.php?id=173949): el primero crea el equipo los restantes miembros se suscribe al equipo en el que quieren estar
 * Creen el libro en GitBook y enlacenlo con el repo de GitHub
   - Asegúrese que GitBook tiene los permisos para acceder a su repo de GitHub
+  - ![Nos vamos a los settings del repo en GH](/assets/colaboracion/settingsdelrepo.png)
   - ![Settings> Integration and Services](assets/colaboracion/integrationsandservices.png)
   - ![Integrations > Publishing](assets/colaboracion/integrationspublishing.png)
   - ![Configurar la Integración de GitBook con GH](assets/colaboracion/configuregitbookintegrationwithgh.png)
