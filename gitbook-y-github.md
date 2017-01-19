@@ -22,7 +22,7 @@ Issues are a great way to keep track of tasks, enhancements, and bugs for your p
 
 * [Mastering Issues](https://guides.github.com/features/issues/)
 
-## Instalar GitBook en una Máquina Windows
+### Instalar GitBook en una Máquina Windows
 
 * Deberá instalar [Git for Windows](https://git-scm.com/download/win)
 * Y seguir stas instrucciones: [GitBook Setup](https://toolchain.gitbook.com/setup.html)
