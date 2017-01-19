@@ -63,6 +63,7 @@ Este es un ejemplo de colaboración desarrollado por los alumnos de la asignatur
 del Grado de Informática en el curso 2015/2016: 
 
 * [Libro con las Presentaciones de los Alumnos de SYTW](https://ull-esit-sytw-1617.github.io/presentaciones-todos/)
+   * Obsérvese que la URL del libro es `https://ull-esit-sytw-1617.github.io/presentaciones-todos/`: el libro no ha sido desplegado en los servidores de GitBook sino en los servidores de GitHub
   * [Repositorio GitHub con los contenidos del Libro](https://github.com/ULL-ESIT-SYTW-1617/presentaciones-todos)
   * [Issues/Incidencias](https://github.com/ULL-ESIT-SYTW-1617/presentaciones-todos/issues?q=is%3Aissue+is%3Aclosed) del proyecto
   * [Ejemplo de Proyecto asociado al libro](https://github.com/ULL-ESIT-SYTW-1617/presentaciones-todos/projects/1)
