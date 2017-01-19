@@ -37,12 +37,12 @@
 * [Idiomas](idiomas.md)
 * [Plugins Interesantes](plugins-interesantes.md)
     * [Youtube](youtube.md)
-    * [Quiz](quiz.md)
     * [Mermaid](mermaid.md)
     * [Disqus](disqus.md)
     * [Asciitree](asciitree.md)
     * [Copy code button](copy-code-button.md)
     * [Page-toc](page-toc.md)
+    * [Quiz](quiz.md)
 
 ## Colaboración y Control de Versiones
 * [GitBook y GitHub](gitbook-y-github.md)
