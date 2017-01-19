@@ -23,7 +23,7 @@ Tener el repositorio en GitHub presenta múltiples ventajas:
 * Podemos crear organizaciones
 * Podemos tener repositorios privados (vía solicitud) para uso académico
 * Podemos planificar la secuenciación y reparto de tareas para un libro vía los **projects** asociados con un repositorio
-* Podemos llevar un control exhaustivo de quien ha trabajdo en que y cuando (grafos, blame, etc.)
+* Podemos llevar un control exhaustivo de quien ha trabajado en que y cuando (grafos, blame, etc.)
 
 
 
