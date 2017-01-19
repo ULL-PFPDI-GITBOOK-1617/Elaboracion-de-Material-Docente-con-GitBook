@@ -7,6 +7,6 @@ El objetivo de este ejercicio es escribir un libro entre dos o tres colaboradore
 * Creen el libro en GitBook y enlacenlo con el repo de GitHub
 * Divídanse la tarea entre los miembros del equipo: para ello creen uno o varios [project](githubprojects.md) asociados al repositorio
 * Creen conflictos y resuelvanlos 
-* Utilicen los [issues]() de GitHub como mecanismo de comunicación
+* Utilicen los [issues](gitbook-y-github.md#issues) de GitHub como mecanismo de comunicación
 
 
