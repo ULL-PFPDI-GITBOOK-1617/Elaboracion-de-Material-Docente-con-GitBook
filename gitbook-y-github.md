@@ -19,7 +19,7 @@ Se llama **control de versiones** a la gestión de los diversos cambios que se r
 * [Can I host my content on GitHub?](https://help.gitbook.com/github/can-i-host-on-github.html)
 
 
-From your account's settings, connect your GitHub account and choose what you will allow:
+From your **account's settings**, connect your GitHub account and choose what you will allow:
 
 #### Setting up permissions
 
@@ -38,6 +38,12 @@ Una vez allí, escoges **with access to private repositories**.
 
 
 #### Linking your book to a GitHub repository {#linking} 
+
+{% mermaid %}
+graph TD;
+  book's settings page-->GitHub section;
+  GitHub section-->Select GitHub repo;
+{% endmermaid %}
 
 From your book's settings page, go to the **GitHub** section, there you can easily specify to which GitHub repository your book will be linked.
 
