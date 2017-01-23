@@ -30,6 +30,21 @@ Vete a **settings** > ** Profile** y desde ahí a la sección **GitHub** y haz c
 
 Una vez allí, escoges **with access to private repositories**.
 
+
+#### Linking your book to a GitHub repository
+
+From your book's settings page, go to the **GitHub** section, there you can easily specify to which GitHub repository your book will be linked.
+
+In the input form, type in the name of your book's repository in the following format:
+
+```
+<github-username>/<github-repository-name>
+```
+
+Note that you shouldn't enter neither the full GitHub address, nor the .git extension.
+
+Finally, click on the **Save** button.
+
 ### Crear un Gitbook a partir de un repositorio de Github
 * [Can I host my content on GitHub?](https://help.gitbook.com/github/can-i-host-on-github.html)
 
