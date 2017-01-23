@@ -13,6 +13,17 @@ Se llama **control de versiones** a la gestión de los diversos cambios que se r
 ### Transferir un repo en GitBook a GitHub
 * [How can I transfer my content to GitHub?](https://help.gitbook.com/github/how-can-i-export-to-repo.html)
 
+From your account's settings, connect your GitHub account and choose what you will allow:
+
+* **Default permissions**: Allows you to authenticate with GitHub on GitBook.
+* **Access to public repositories**: Allows editing books on your public GitHub repositories from the GitBook Web editor.
+* **Access to private repositories**: Same as above, but for private repositories too.
+* **Access to webhook**: Allows GitBook to create webhooks on your book repositories to trigger builds automatically.
+
+Vete a **settings** > ** Profile** y desde ahí a la sección **GitHub** y haz click en el triángulito de **Reconnect GitHub**:
+
+![Dando permisos a Gitbook para acceder a GitHub](/assets/colaboracion/dandopermisosagitbookparaaccederagithub.png)
+
 ### Crear un Gitbook a partir de un repositorio de Github
 * [Can I host my content on GitHub?](https://help.gitbook.com/github/can-i-host-on-github.html)
 
