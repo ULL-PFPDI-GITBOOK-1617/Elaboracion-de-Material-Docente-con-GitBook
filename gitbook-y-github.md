@@ -39,13 +39,16 @@ Una vez allí, escoges **with access to private repositories**.
 
 #### Linking your book to a GitHub repository {#linking} 
 
+From your book's settings page, go to the **GitHub** section, there you can easily specify to which GitHub repository your book will be linked.
+
+
 {% mermaid %}
 graph LR;
   book-settings-page-->GitHub-section;
   GitHub-section-->Select-GitHub-repo;
 {% endmermaid %}
 
-From your book's settings page, go to the **GitHub** section, there you can easily specify to which GitHub repository your book will be linked.
+
 
 In the input form, type in the name of your book's repository in the following format:
 
