@@ -63,9 +63,13 @@ After completing [the former step](#linking), a new Integration panel will appea
 
 #### Setting up webhooks
 
+
+After completing the former step, a new webhook  will appear on the **webhooks** section of your book's GitHub **settings** page. 
+
+![El Webhook que comunica a GitHub con GitBook ha sido instalado](/assets/colaboracion/webhookinstalledforgithubrepo.png)
+
+
 The final step is to configure a **webhook** on your GitHub repository that will let GitBook know when your repository is updated.
-
-
 
 To add the webhook, you can either:
 
