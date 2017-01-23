@@ -59,6 +59,8 @@ After completing step {#linking}, a new Integration panel will appear on your bo
 
 ![Synchronizing GitHub repo with GitBook](/assets/colaboracion/syncgithubgitbook.png)
 
+* Si los dos repos difieren se producirá un mensaje de error como el de la imagen. Elige la versión que quieres que prevalezca. 
+* Si los dos repos están iguales la sincronizaciónterminará con éxito
 
 To add the webhook, you can either:
 
