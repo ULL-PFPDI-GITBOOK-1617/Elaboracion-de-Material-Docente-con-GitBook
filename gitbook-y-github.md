@@ -53,7 +53,7 @@ Finally, click on the **Save** button.
 
 #### Setting up webhooks
 
-The final step is to configure a webhook on your GitHub repository that will let GitBook know when your repository is updated.
+The final step is to configure a **webhook** on your GitHub repository that will let GitBook know when your repository is updated.
 
 After completing step 2., a new Integration panel will appear on your book's GitHub settings page. To add the webhook, you can either:
 
