@@ -94,12 +94,13 @@ The next push event to your GitHub repository will trigger a new update of your 
 
 Tener el repositorio en GitHub presenta múltiples ventajas:
 
-* Podemos **viajar en el tiempo** en nuestor proyecto
-* Podemos comunicarnos con los otros autores via el gestor de incidencias
+* Podemos **viajar en el tiempo** en nuestro proyecto
+* Podemos comunicarnos con los otros autores/alumnos via el gestor de incidencias
 * Podemos crear organizaciones para gestionar nuestras clases
 * Podemos tener repositorios privados (vía solicitud) para uso académico
-* Podemos planificar la secuenciación y reparto de tareas para un libro vía los **projects** asociados con un repositorio
+* Podemos planificar la secuenciación y reparto de tareas para un libro o una tarea vía los **projects** asociados con un repositorio (similar a Trello)
 * Podemos llevar un control exhaustivo de quien ha trabajado en que y cuando (grafos, blame, etc.)
+* Podemos usar GitHub Classroom para manejar las tareas que marcamos a nuestros estudiantes
 
 
 
