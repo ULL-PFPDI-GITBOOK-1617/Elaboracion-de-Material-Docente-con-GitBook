@@ -41,8 +41,8 @@ Una vez allí, escoges **with access to private repositories**.
 
 {% mermaid %}
 graph TD;
-  book's settings page-->GitHub section;
-  GitHub section-->Select GitHub repo;
+  book-settings-page-->GitHub-section;
+  GitHub-section-->Select-GitHub-repo;
 {% endmermaid %}
 
 From your book's settings page, go to the **GitHub** section, there you can easily specify to which GitHub repository your book will be linked.
