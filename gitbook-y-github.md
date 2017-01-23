@@ -41,7 +41,11 @@ In the input form, type in the name of your book's repository in the following f
 <github-username>/<github-repository-name>
 ```
 
-Note that you shouldn't enter neither the full GitHub address, nor the .git extension.
+Or select the corresponding repository.
+
+Note that you shouldn't enter neither 
+* the full GitHub address, 
+* nor the .git extension.
 
 Finally, click on the **Save** button.
 
