@@ -40,7 +40,7 @@ Una vez allí, escoges **with access to private repositories**.
 #### Linking your book to a GitHub repository {#linking} 
 
 {% mermaid %}
-graph TD;
+graph LR;
   book-settings-page-->GitHub-section;
   GitHub-section-->Select-GitHub-repo;
 {% endmermaid %}
