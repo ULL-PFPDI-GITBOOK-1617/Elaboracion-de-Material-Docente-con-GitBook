@@ -46,7 +46,7 @@
 
 ## Colaboración y Control de Versiones
 * [GitBook y GitHub](gitbook-y-github.md)
-  - [Transferir un repo en GitBook a GitHub](gitbook-y-github.md#bookingithub)
+  - [Crear un Gitbook a partir de un repositorio de Github](gitbook-y-github.md#bookingithub)
 * [Colaboracion y Control de Versiones](colaboracion.md)
 
 ## GitHub y la Enseñanza
