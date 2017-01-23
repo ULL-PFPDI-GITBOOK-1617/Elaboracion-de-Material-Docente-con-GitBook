@@ -10,9 +10,14 @@ Se llama **control de versiones** a la gestión de los diversos cambios que se r
 
 * [Crear una cuenta en GitHub](https://github.com/join?source=header-home)
 
-### Transferir un repo en GitBook a GitHub {#bookingithub}
+### Transferir un repo en GitBook a GitHub 
 
 * [How can I transfer my content to GitHub?](https://help.gitbook.com/github/how-can-i-export-to-repo.html)
+
+### Crear un Gitbook a partir de un repositorio de Github {#bookingithub}
+
+* [Can I host my content on GitHub?](https://help.gitbook.com/github/can-i-host-on-github.html)
+
 
 From your account's settings, connect your GitHub account and choose what you will allow:
 
@@ -84,8 +89,8 @@ Either way, clicking on the Check webhooks button will lead you to your GitHub r
 
 The next push event to your GitHub repository will trigger a new update of your book on GitBook.
 
-### Crear un Gitbook a partir de un repositorio de Github
-* [Can I host my content on GitHub?](https://help.gitbook.com/github/can-i-host-on-github.html)
+
+### Ventajas de Tener el Repositorio del Libro Aljado en GitHub
 
 Tener el repositorio en GitHub presenta múltiples ventajas:
 
