@@ -49,6 +49,9 @@ Note that you shouldn't enter neither
 
 Finally, click on the **Save** button.
 
+![Linking your book to a GitHub repository](/assets/colaboracion/linkingyourbooktoagithubrepo.png)
+
+
 ### Crear un Gitbook a partir de un repositorio de Github
 * [Can I host my content on GitHub?](https://help.gitbook.com/github/can-i-host-on-github.html)
 
