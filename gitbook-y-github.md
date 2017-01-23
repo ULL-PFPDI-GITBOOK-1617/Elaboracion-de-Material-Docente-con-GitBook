@@ -31,7 +31,7 @@ Vete a **settings** > ** Profile** y desde ahí a la sección **GitHub** y haz c
 Una vez allí, escoges **with access to private repositories**.
 
 
-#### Linking your book to a GitHub repository
+#### Linking your book to a GitHub repository {#linking} 
 
 From your book's settings page, go to the **GitHub** section, there you can easily specify to which GitHub repository your book will be linked.
 
@@ -55,7 +55,12 @@ Finally, click on the **Save** button.
 
 The final step is to configure a **webhook** on your GitHub repository that will let GitBook know when your repository is updated.
 
-After completing step 2., a new Integration panel will appear on your book's GitHub settings page. To add the webhook, you can either:
+After completing step {#linking}, a new Integration panel will appear on your book's GitHub settings page. 
+
+![Synchronizing GitHub repo with GitBook](/assets/colaboracion/syncgithubgitbook.png)
+
+
+To add the webhook, you can either:
 
 Click on the Add webhook button to automatically create the webhook in your GitHub repo
 Add the provided Webhook URL manually to your GitHub repository with access to Push events
