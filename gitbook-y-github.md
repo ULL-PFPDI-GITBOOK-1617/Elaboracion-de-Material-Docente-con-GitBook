@@ -90,7 +90,7 @@ Either way, clicking on the Check webhooks button will lead you to your GitHub r
 The next push event to your GitHub repository will trigger a new update of your book on GitBook.
 
 
-### Ventajas de Tener el Repositorio del Libro Aljado en GitHub
+### Ventajas de Tener el Repositorio del Libro Alojado en GitHub
 
 Tener el repositorio en GitHub presenta múltiples ventajas:
 
