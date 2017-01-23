@@ -28,6 +28,8 @@ Vete a **settings** > ** Profile** y desde ahí a la sección **GitHub** y haz c
 
 ![Dando permisos a Gitbook para acceder a GitHub](/assets/colaboracion/dandopermisosagitbookparaaccederagithub.png)
 
+Una vez allí, escoges **with access to private repositories**.
+
 ### Crear un Gitbook a partir de un repositorio de Github
 * [Can I host my content on GitHub?](https://help.gitbook.com/github/can-i-host-on-github.html)
 
