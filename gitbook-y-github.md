@@ -61,20 +61,22 @@ After completing [the former step](#linking), a new Integration panel will appea
 * Si los dos repos están iguales la sincronización terminará con éxito
 
 
-#### Setting up webhooks
+#### Webhooks
 
 
 After completing the former step, a new webhook  will appear on the **webhooks** section of your book's GitHub **settings** page. 
 
 ![El Webhook que comunica a GitHub con GitBook ha sido instalado](/assets/colaboracion/webhookinstalledforgithubrepo.png)
 
+Si hacemos click en el botón **Edit** veremos algo similar a esto:
 
-The final step is to configure a **webhook** on your GitHub repository that will let GitBook know when your repository is updated.
+#### Configurando WebHooks
 
-To add the webhook, you can either:
+To configure a **webhook** on your GitHub repository that will let GitBook know when your repository is updated, you can either:
 
-* Click on the Add webhook button to automatically create the webhook in your GitHub repo
+* Click on the **Add webhook** button to automatically create the webhook in your GitHub repo
 * Add the provided Webhook URL manually to your GitHub repository with access to Push events
+
 Either way, clicking on the Check webhooks button will lead you to your GitHub repo settings page where you should see the newly created webhook.
 
 The next push event to your GitHub repository will trigger a new update of your book on GitBook.
