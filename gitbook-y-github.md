@@ -53,7 +53,7 @@ Finally, click on the **Save** button.
 
 #### Synchronizing 
 
-After completing step {#linking}, a new Integration panel will appear on your book's GitHub settings page. 
+After completing [the former step](#linking), a new Integration panel will appear on your book's GitHub settings page. 
 
 ![Synchronizing GitHub repo with GitBook](/assets/colaboracion/syncgithubgitbook.png)
 
