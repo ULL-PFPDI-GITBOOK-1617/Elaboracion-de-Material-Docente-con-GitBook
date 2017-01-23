@@ -51,6 +51,17 @@ Finally, click on the **Save** button.
 
 ![Linking your book to a GitHub repository](/assets/colaboracion/linkingyourbooktoagithubrepo.png)
 
+#### Setting up webhooks
+
+The final step is to configure a webhook on your GitHub repository that will let GitBook know when your repository is updated.
+
+After completing step 2., a new Integration panel will appear on your book's GitHub settings page. To add the webhook, you can either:
+
+Click on the Add webhook button to automatically create the webhook in your GitHub repo
+Add the provided Webhook URL manually to your GitHub repository with access to Push events
+Either way, clicking on the Check webhooks button will lead you to your GitHub repo settings page where you should see the newly created webhook.
+
+The next push event to your GitHub repository will trigger a new update of your book on GitBook.
 
 ### Crear un Gitbook a partir de un repositorio de Github
 * [Can I host my content on GitHub?](https://help.gitbook.com/github/can-i-host-on-github.html)
