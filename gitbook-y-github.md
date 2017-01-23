@@ -1,4 +1,4 @@
-### Conceptos
+### Conceptos Básicos del Control de Versiones
 
 Se llama **control de versiones** a la gestión de los diversos cambios que se realizan sobre los elementos de un proyecto. Una **versión** o **revisión** de un proyecto, es el estado en el que se encuentra el mismo en un momento dado de su desarrollo o modificación.
 
@@ -6,11 +6,11 @@ Se llama **control de versiones** a la gestión de los diversos cambios que se r
 
 **GitHub** es una plataforma de desarrollo colaborativo en la nube para alojar proyectos utilizando el sistema de control de versiones Git.
 
-### Crear una cuenta en GitHub
+### Como crear una cuenta en GitHub
 
 * [Crear una cuenta en GitHub](https://github.com/join?source=header-home)
 
-### Transferir un repo en GitBook a GitHub 
+### Como transferir un repo en GitBook a GitHub 
 
 * [How can I transfer my content to GitHub?](https://help.gitbook.com/github/how-can-i-export-to-repo.html)
 
