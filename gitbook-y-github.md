@@ -70,6 +70,8 @@ After completing the former step, a new webhook  will appear on the **webhooks**
 
 Si hacemos click en el botón **Edit** veremos algo similar a esto:
 
+![Editando un webhook](/assets/colaboracion/ediciondeunwebhook.png)
+
 #### Configurando WebHooks
 
 To configure a **webhook** on your GitHub repository that will let GitBook know when your repository is updated, you can either:
