@@ -51,6 +51,8 @@ Finally, click on the **Save** button.
 
 ![Linking your book to a GitHub repository](/assets/colaboracion/linkingyourbooktoagithubrepo.png)
 
+#### Synchronizing 
+
 After completing step {#linking}, a new Integration panel will appear on your book's GitHub settings page. 
 
 ![Synchronizing GitHub repo with GitBook](/assets/colaboracion/syncgithubgitbook.png)
