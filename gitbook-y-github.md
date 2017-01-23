@@ -15,6 +15,10 @@ Se llama **control de versiones** a la gestión de los diversos cambios que se r
 
 From your account's settings, connect your GitHub account and choose what you will allow:
 
+#### Setting up permissions
+
+To integrate your book with GitHub, you need to authorize GitBook to access your GitHub account to some extent. From your [account's settings](https://www.gitbook.com/settings "account settings"), connect your GitHub account and choose what you will allow:
+
 * **Default permissions**: Allows you to authenticate with GitHub on GitBook.
 * **Access to public repositories**: Allows editing books on your public GitHub repositories from the GitBook Web editor.
 * **Access to private repositories**: Same as above, but for private repositories too.
