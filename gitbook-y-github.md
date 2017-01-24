@@ -78,6 +78,7 @@ After completing [the former step](#linking), the following screen will appear:
 
 #### Webhooks
 
+A **hook** is a code that allows an app to react when something happens, usually asking another app or service to do something.
 
 After completing the former step, a new webhook  will appear on the **webhooks** section of your book's GitHub **settings** page. 
 
