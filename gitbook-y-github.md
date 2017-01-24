@@ -106,6 +106,7 @@ To configure a **webhook** on your GitHub repository that will let GitBook know 
     username=user-name&
     token=token-value
   ```
+  but all in one line
   - You know what your `user-name` is
   - You know what yout `book-title` is
   - You need a token. Keep reading to see how to get the token
