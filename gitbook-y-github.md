@@ -101,6 +101,9 @@ To configure a **webhook** on your GitHub repository that will let GitBook know 
 ##### On GitBook
 
 * Go to the **settings** ⇒ ** GitHub** section and click on the button **Select a Repository** and select your GitHub repo
+* Press the **Sync** button and solve the conflicts
+
+##### On GitHub
 
 * Add the provided Webhook URL manually to your GitHub repository with access to Push events
 
