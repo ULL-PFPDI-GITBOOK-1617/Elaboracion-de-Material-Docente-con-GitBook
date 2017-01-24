@@ -75,6 +75,14 @@ After completing [the former step](#linking), the following screen will appear:
 * Si los dos repos difieren se producirá un mensaje de conflicto como el que aprece en la imagen. Elige la versión que quieres que prevalezc, por ejemplo *Force Sync with GitBook content* 
 * Si los dos repos están iguales la sincronización terminará con éxito
 
+##### The Check Webhook button on GitBook
+
+* Either way, clicking on the **Check webhook**s button 
+  -![Clicking on the **Check webhook**s button](/assets/colaboracion/check-webhook-button-gitbook.png)
+* Will lead you to your GitHub repo settings page where you should see the newly created webhook
+  - ![Leads you to your GitHub repo settings page](/assets/colaboracion/leads-you-to-github-webhook.png)
+
+
 
 #### Webhooks
 
@@ -118,12 +126,6 @@ To configure a **webhook** on your GitHub repository that will let GitBook know 
 * Click on the button **Generate Token**
   - ![Token was generated](/token-generado.png)
   
-##### The Check Webhook button on GitBook
-
-* Either way, clicking on the **Check webhook**s button 
-  -![Clicking on the **Check webhook**s button](/assets/colaboracion/check-webhook-button-gitbook.png)
-* Will lead you to your GitHub repo settings page where you should see the newly created webhook
-  - ![Leads you to your GitHub repo settings page](/assets/colaboracion/leads-you-to-github-webhook.png)
 
 ##### The consequence
 
