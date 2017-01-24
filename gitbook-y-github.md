@@ -105,16 +105,23 @@ To configure a **webhook** on your GitHub repository that will let GitBook know 
     username=user-name&
     token=token-value
   ```
-  
-##### On GitBook
+  - You know what your user-name is
+  - You know what yout book-title is
+  - You need a token.
+    
+##### Getting an Authentication token on GitBook
 
 * To get a token go to your **personal settings** and from there to **Applications/Tokens**
   - ![How to get a token](/assets/colaboracion/generate-a-token.png)
+  
+##### The Check Webhook button on GitBook
 
 * Either way, clicking on the **Check webhook**s button 
   -![Clicking on the **Check webhook**s button](/assets/colaboracion/check-webhook-button-gitbook.png)
 * Will lead you to your GitHub repo settings page where you should see the newly created webhook
   - ![Leads you to your GitHub repo settings page](/assets/colaboracion/leads-you-to-github-webhook.png)
+
+##### The consequence
 
 The next push event to your GitHub repository will trigger a new update of your book on GitBook.
 
