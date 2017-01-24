@@ -106,7 +106,13 @@ To configure a **webhook** on your GitHub repository that will let GitBook know 
 ##### On GitHub
 
 * Add the provided Webhook URL manually to your GitHub repository with access to Push events
-* The webhook URL follows this syntax: `https://git.gitbook.com/github?book=user-name/book-title&username=user-name&token=token-value`
+* The webhook URL follows this syntax: 
+  ```
+  https://git.gitbook.com/github?
+    book=user-name/book-title&
+    username=user-name&
+    token=token-value
+  ```
 
 ##### On GitBook
 
