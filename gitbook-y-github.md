@@ -115,6 +115,7 @@ To configure a **webhook** on your GitHub repository that will let GitBook know 
 
 * To get a token go to your **personal settings** and from there to **Applications/Tokens**
   - ![How to get a token](/assets/colaboracion/generate-a-token.png)
+* Click on the button **Generate Token**
   - ![Token was generated](/token-generado.png)
   
 ##### The Check Webhook button on GitBook
