@@ -47,6 +47,9 @@
 ## Colaboración y Control de Versiones
 * [GitBook y GitHub](gitbook-y-github.md)
   - [Crear un Gitbook a partir de un repositorio de Github](gitbook-y-github.md#bookingithub)
+  - [Configurando Manualmente un WebHook (Avanzado)](gitbook-y-github.md#manually)
+
+
 * [Colaboracion y Control de Versiones](colaboracion.md)
 
 ## GitHub y la Enseñanza
