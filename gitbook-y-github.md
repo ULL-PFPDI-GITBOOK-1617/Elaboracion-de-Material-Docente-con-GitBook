@@ -77,7 +77,7 @@ After completing [the former step](#linking), the following screen will appear:
 
 ##### The Check Webhook button on GitBook
 
-* Either way, clicking on the **Check webhook**s button 
+* Clicking on the **Check webhook**s button 
   -![Clicking on the **Check webhook**s button](/assets/colaboracion/check-webhook-button-gitbook.png)
 * Will lead you to your GitHub repo settings page where you should see the newly created webhook
   - ![Leads you to your GitHub repo settings page](/assets/colaboracion/leads-you-to-github-webhook.png)
