@@ -92,6 +92,7 @@ Si hacemos click en el botón **Edit** veremos algo similar a esto:
 To configure a **webhook** on your GitHub repository that will let GitBook know when your repository is updated, you can either:
 
 * Click on the **Add webhook** button to automatically create the webhook in your GitHub repo
+  - ![Click on the **Add webhook** button](/assets/colaboracion/add-webhook-button.png)
 * Add the provided Webhook URL manually to your GitHub repository with access to Push events
 
 Either way, clicking on the Check webhooks button will lead you to your GitHub repo settings page where you should see the newly created webhook.
