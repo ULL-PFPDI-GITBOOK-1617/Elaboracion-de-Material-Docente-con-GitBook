@@ -94,6 +94,7 @@ To configure a **webhook** on your GitHub repository that will let GitBook know 
 * Go to **settings** ⇒ **Webhooks** in your GitHub repo
 * Click on the **Add webhook** button to automatically create the webhook in your GitHub repo
   - ![Click on the **Add webhook** button](/assets/colaboracion/add-webhook-button.png)
+* Fill the form to configure the webhook
   - ![Configure the webhook](/assets/colaboracion/configuring-webhook.png)
 * Add the provided Webhook URL manually to your GitHub repository with access to Push events
 
