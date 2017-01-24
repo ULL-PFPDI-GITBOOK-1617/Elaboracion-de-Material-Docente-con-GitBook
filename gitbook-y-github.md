@@ -113,7 +113,8 @@ To configure a **webhook** on your GitHub repository that will let GitBook know 
     username=user-name&
     token=token-value
   ```
-
+* To get a token go to your **personal settings** and from there to **Applications/Tokens**
+  - ![](/assets/colaboracion/generate-a-token.png)
 ##### On GitBook
 
 * Either way, clicking on the **Check webhook**s button 
