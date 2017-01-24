@@ -72,7 +72,7 @@ After completing [the former step](#linking), the following screen will appear:
 
 ![Synchronizing GitHub repo with GitBook](/assets/colaboracion/syncgithubgitbook.png)
 
-* Si los dos repos difieren se producirá un mensaje de error como el de la imagen. Elige la versión que quieres que prevalezc, por ejemplo *Force Sync with GitBook content* 
+* Si los dos repos difieren se producirá un mensaje de conflicto como el que aprece en la imagen. Elige la versión que quieres que prevalezc, por ejemplo *Force Sync with GitBook content* 
 * Si los dos repos están iguales la sincronización terminará con éxito
 
 
