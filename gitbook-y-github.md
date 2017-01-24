@@ -97,14 +97,6 @@ To configure a **webhook** on your GitHub repository that will let GitBook know 
   - ![Click on the **Add webhook** button](/assets/colaboracion/add-webhook-button.png)
 * Fill the form to configure the webhook
   - ![Configure the webhook](/assets/colaboracion/configuring-webhook.png)
-
-##### On GitBook
-
-* Go to the **settings** ⇒ ** GitHub** section and click on the button **Select a Repository** and select your GitHub repo
-* Press the **Sync** button and solve the conflicts
-
-##### On GitHub
-
 * Add the provided Webhook URL manually to your GitHub repository with access to Push events
 * The webhook URL follows this syntax: 
   ```
@@ -113,9 +105,11 @@ To configure a **webhook** on your GitHub repository that will let GitBook know 
     username=user-name&
     token=token-value
   ```
-* To get a token go to your **personal settings** and from there to **Applications/Tokens**
-  - ![](/assets/colaboracion/generate-a-token.png)
+  
 ##### On GitBook
+
+* To get a token go to your **personal settings** and from there to **Applications/Tokens**
+  - ![How to get a token](/assets/colaboracion/generate-a-token.png)
 
 * Either way, clicking on the **Check webhook**s button 
   -![Clicking on the **Check webhook**s button](/assets/colaboracion/check-webhook-button-gitbook.png)
