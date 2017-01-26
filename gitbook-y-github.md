@@ -147,7 +147,7 @@ Tener el repositorio en GitHub presenta múltiples ventajas:
 ### Referencias
 
 1. [GitHub Integration with GitBook: Documentation](https://github.com/GitbookIO/documentation/tree/master/github)
-2. [Issue: github integration: stop working #508](https://github.com/GitbookIO/gitbook/issues/508)
+2. [GitBook Issue: GitHub integration: stop working #508](https://github.com/GitbookIO/gitbook/issues/508)
 3. [GitHub Webhooks](https://developer.github.com/webhooks/)
 
 
