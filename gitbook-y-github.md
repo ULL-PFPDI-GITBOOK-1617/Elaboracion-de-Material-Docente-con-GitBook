@@ -144,6 +144,15 @@ Tener el repositorio en GitHub presenta múltiples ventajas:
 * Podemos llevar un control exhaustivo de quien ha trabajado en que y cuando (grafos, blame, etc.)
 * Podemos usar GitHub Classroom para manejar las tareas que marcamos a nuestros estudiantes
 
+### Referencias
+
+1. [gitHub Integration with GitBook Documentation](https://github.com/GitbookIO/documentation/tree/master/github)
+2. [Issue: github integration: stop working #508](https://github.com/GitbookIO/gitbook/issues/508)
+3. [GitHub Webhooks](https://developer.github.com/webhooks/)
+
+
+
+
 
 
 
