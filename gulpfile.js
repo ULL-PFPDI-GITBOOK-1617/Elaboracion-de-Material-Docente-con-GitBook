@@ -11,7 +11,8 @@ gulp.task('cp', shell.task([
 ]));
 
 gulp.task('publish', ['cp'], shell.task([
-        'git push github gh-pages'
+        'git push github gh-pages',
+        'git co master'
 ]));
 
 gulp.task('default', function() {
