@@ -6,6 +6,10 @@ gulp.task('build', shell.task([
         'gitbook build'
 ]));
 
+gulp.task('cp', shell.task([
+        'git co gh-pages && cp -fR _book/* .'
+]));
+
 gulp.task('default', function() {
   return gulp.src('./_book/**/*')
     .pipe(ghPages({
