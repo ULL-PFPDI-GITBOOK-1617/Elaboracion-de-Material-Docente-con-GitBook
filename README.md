@@ -35,7 +35,7 @@ Una cantidad de sitios usa algunas variantes de Markdown para facilitar la discu
 ## MarkDown se usa en Muchos Contextos
 
 * [Markdown en Moodle](moodle.md)
-* [MarkDown y GitHub pages](https://pages.github.com/)
+* [MarkDown y GitHub pages](githubpages.md)
 
 ## Pandoc {#pandoc}
 

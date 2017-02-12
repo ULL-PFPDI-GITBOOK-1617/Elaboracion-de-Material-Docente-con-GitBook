@@ -34,7 +34,7 @@
 ## Markdown en Otros Contextos
 
 * [Markdown en Moodle](moodle.md)
-* [MarkDown y GitHub pages](https://pages.github.com/)
+* [MarkDown y GitHub pages](githubpages.md)
 
 ## Tópicos Avanzados
 * [Portada](portada.md)
