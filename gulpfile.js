@@ -6,8 +6,7 @@ gulp.task('build', shell.task([
         'gitbook build'
 ]));
 
-gulp.task('cp', shell.task([
-        'git co gh-pages && cp -fR _book/* .'
+        'git co gh-pages && cp -fR _book/* . && git ci -am gh-pages'
 ]));
 
 gulp.task('default', function() {
