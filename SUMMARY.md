@@ -31,9 +31,10 @@
 * [eBook y PDF](ebook.md)
 * [Importación de documentos](syntax/importacion.md)
 
-## Markdown en Moodle
+## Markdown en Otros Contextos
 
 * [Markdown en Moodle](moodle.md)
+* [MarkDown y GitHub pages](https://pages.github.com/)
 
 ## Tópicos Avanzados
 * [Portada](portada.md)
