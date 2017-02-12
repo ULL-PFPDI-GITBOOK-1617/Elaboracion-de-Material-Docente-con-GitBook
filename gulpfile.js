@@ -7,6 +7,9 @@ gulp.task('build', shell.task([
 ]));
 
 gulp.task('default', function() {
-  return gulp.src('./_book/**/*', {origin: 'github'})
-    .pipe(ghPages());
+  return gulp.src('./_book/**/*')
+    .pipe(ghPages({
+      origin: 'github' //, 
+      //remoteUrl: 'git@github.com:ULL-PFPDI-GITBOOK-1617/Elaboracion-de-Material-Docente-con-GitBook.git'
+    }));
 });
