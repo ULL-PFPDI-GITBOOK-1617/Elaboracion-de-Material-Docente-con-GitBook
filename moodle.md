@@ -2,10 +2,6 @@
 
 MarkDown puede usarse como formato de edición en Moodle.
 
-¡Chazam!
-¡Chazam!
-¡Chazam!
-
 -----
 
 Configure su Editor en Moodle. Primero edite su perfil:
