@@ -9,4 +9,4 @@ Configure su Editor en Moodle:
 
 Ahora le sale la opción MarkDown cada vez que creamos un nuevo recurso o tarea:
 
-3. [![Crear etiqueta en Formato Moodle](assets/moodle/crearetiquetamoodleformatomd.png)
+3. [!Crear etiqueta en Formato Moodle](assets/moodle/crearetiquetamoodleformatomd.png)
