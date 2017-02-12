@@ -31,6 +31,10 @@
 * [eBook y PDF](ebook.md)
 * [Importación de documentos](syntax/importacion.md)
 
+## Markdown en Moodle
+
+* [Markdown en Moodle](moodle.md)
+
 ## Tópicos Avanzados
 * [Portada](portada.md)
 * [Glosario](glosario.md)
