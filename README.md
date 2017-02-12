@@ -32,9 +32,10 @@ Una cantidad de sitios usa algunas variantes de Markdown para facilitar la discu
 * [Instalar GitHub Desktop](https://desktop.github.com/)
 * [Instalar GitBook Desktop Editor](https://www.gitbook.com/editor)
 
-## Moodle y MarkDown
+## MarkDown se usa en Muchos Contextos
 
-* [Moodle y MarkDown](moodle.md)
+* [Markdown en Moodle](moodle.md)
+* [MarkDown y GitHub pages](https://pages.github.com/)
 
 ## Pandoc {#pandoc}
 
