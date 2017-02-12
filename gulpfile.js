@@ -10,7 +10,7 @@ gulp.task('cp', shell.task([
         'git co gh-pages && cp -fR _book/* . && git ci -am gh-pages'
 ]));
 
-gulp.task('publish', shell.task([
+gulp.task('publish', ['cp'], shell.task([
         'git push github gh-pages'
 ]));
 
