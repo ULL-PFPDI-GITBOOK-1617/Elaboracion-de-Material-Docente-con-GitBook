@@ -1,5 +1,6 @@
 ## Moodle y MarkDown
 
+MarkDown puede usarse como formato de edición en Moodle.
 
 Configure su Editor en Moodle. Primero edite su perfil:
 
