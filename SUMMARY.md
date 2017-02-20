@@ -54,7 +54,7 @@
   - [Crear un Gitbook a partir de un repositorio de Github](gitbook-y-github.md#bookingithub)
   - [Configurando Manualmente un WebHook (Avanzado)](gitbook-y-github.md#manually)
 * [Colaboracion y Control de Versiones](colaboracion.md)
-* [How can I use Git to update my book?](como-usar-git-para-actualizar-mi-libro.md)
+* [¿Como usar git para actualizar mi libro?](como-usar-git-para-actualizar-mi-libro.md)
 
 ## GitHub y la Enseñanza
 * [GitHub Education](githubeducation.md)
