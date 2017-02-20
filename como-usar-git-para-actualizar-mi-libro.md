@@ -30,6 +30,8 @@ We recommend using your **API TOKEN** for security reasons, you can find it [in 
 
 ### Create a new repository on the command line
 
+Supuesto que el libro se ha creado en GitBook y hemos obtenido su URL y queremos forzar sus contenidos con nuestros contenidos locales:
+
 ```
 touch README.md SUMMARY.md
 git init
@@ -39,9 +41,3 @@ git remote add gitbook https://git.gitbook.com/{{UserName}}/{{Book}}.git
 git push -u -f gitbook master
 ```
 
-### Push an existing repository
-
-```
-git remote add gitbook https://git.gitbook.com/{{UserName}}/{{Book}}.git
-git push -u -f gitbook master
-```
