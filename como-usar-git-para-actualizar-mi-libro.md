@@ -16,6 +16,15 @@ https://git.gitbook.com/{{UserName}}/{{Book}}.git
 
 The git server is using your basic GitBook login to authenticate you. When prompted enter your GitBook username and your password (you can also use your API token).
 
+There is no SSH key with GitBook (only https is supported for now, not ssh). If you get an error 403 is because the credentials (username/password) are invalid.
+
+If you not prompted to enter it, you can append the username/password to the url like this:
+
+```
+https://username:apitoken@git.gitbook.com/marshallshen/ruby-api-best-practices.git
+```
+
+
 ### Saving your credentials
 
 To avoid having to enter your password on each new push, you can add your GitBook credentials to your `~/.netrc` file. Create or append to an existing `~/.netrc` file something like below:
