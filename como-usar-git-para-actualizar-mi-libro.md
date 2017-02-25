@@ -41,6 +41,7 @@ We recommend using your **API TOKEN** for security reasons, you can find it [in 
 ### Problems when Authenticating?
 
 * [Two-factor auth turned on in Github produces problems authenticating in gitbook](https://github.com/GitbookIO/gitbook/issues/1305)
+* [Editor - Support Github two factor authentication](https://github.com/GitbookIO/feedback/issues/133)
 
 ### Create a new repository on the command line
 
