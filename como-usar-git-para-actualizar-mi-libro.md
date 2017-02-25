@@ -37,6 +37,11 @@ machine git.gitbook.com
 
 We recommend using your **API TOKEN** for security reasons, you can find it [in your settings/tokens](https://www.gitbook.com/settings/tokens)
 
+
+### Problems when Authenticating?
+
+* [Two-factor auth turned on in Github produces problems authenticating in gitbook](https://github.com/GitbookIO/gitbook/issues/1305)
+
 ### Create a new repository on the command line
 
 Supuesto que el libro se ha creado en GitBook y hemos obtenido su URL y queremos forzar sus contenidos con nuestros contenidos locales:
